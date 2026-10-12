@@ -34,7 +34,7 @@ The Pipeline tab shows a row under each painting: reference, WIP, video, finishe
 Google Calendar → Other calendars → **+** → **From URL** → `https://brianolek.github.io/anna-studio/calendar.ics`.
 Google re-fetches subscribed feeds roughly every 12-24 hours, so a pipeline change shows up in the calendar the next day. The app is always live.
 
-The feed is rebuilt by `.github/workflows/calendar.yml` on every push that touches `data/`, and daily so the 8-week horizon keeps rolling. To rebuild by hand: `node tools/build_calendar.mjs`.
+The site and the feed are deployed by `.github/workflows/site.yml` on every push to main, and daily so the 8-week calendar horizon keeps rolling. To rebuild by hand: `node tools/build_calendar.mjs`.
 
 ## Editing
 
