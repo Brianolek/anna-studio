@@ -2,5 +2,12 @@
   "name": "anna-studio",
   "private": true,
   "type": "module",
-  "scripts": { "calendar": "node tools/build_calendar.mjs", "serve": "python3 -m http.server 3324" }
+  "scripts": {
+    "calendar": "node tools/build_calendar.mjs",
+    "serve": "python3 -m http.server 3324"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
+    "zod": "^4.6.7"
+  }
 }
