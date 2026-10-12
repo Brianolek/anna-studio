@@ -1,29 +1,45 @@
-# Handoff for the next session
+# Handoff: read this first
 
-**Goal.** An organizational system for Anna Douglas's art career. Brian (her husband) dictates
-what she actually does on each platform; Claude schedules it and creates the events directly on
-their shared Google Calendar. Anna paints; the system tells her what to post, where, when, and why.
+**Who.** Brian (the user) and Anna Douglas, a painter. Brian is building an organizational tool so Anna
+follows a fixed daily routine for posting and the rest of her day is painting.
 
-**What exists in this repo.** A static planner app (index.html, js/engine.js, data/*.json) and a
-calendar-feed builder (tools/build_calendar.mjs). The MECHANICS are worth keeping: a painting moves
-idea -> in-progress -> finished -> listed -> sold; posts hang off stages and dates; weekly cadence
-slots rotate; the whole thing rolls forward as paintings finish (about one every 3 days).
+**Rules Brian has set, do not break them:**
+- Do not invent content, advice, cadences, or rules. Brian dictates what they do; Claude schedules it.
+- Calendar events and task text are robotic and minimal: platform, post type, painting, file. No prose.
+- One block per day, at a fixed time, with 1 to 3 tasks in it. Not a feed of slots across the day.
+  The three-posts-a-day cadence, reply blocks, and all text currently in data/cadence.json,
+  data/post_types.json, data/platforms.json and data/lifecycle.json are PLACEHOLDERS Claude wrote.
+  Replace them with Brian's inputs; do not reuse the wording.
+- Everything runs on the Mac. No dragging files into chat.
 
-**What to throw out.** All the CONTENT in data/platforms.json, data/post_types.json,
-data/cadence.json and data/lifecycle.json was written by Claude as placeholder defaults. Brian said
-it was invented and does not reflect what they do. Do not reuse that wording or those rules. Ask
-Brian for the real actions, platforms, days, and times, in his words, and build from that only.
+**Inputs still needed from Brian (ask for these, briefly):**
+1. Daily block time and length. 2. Tasks per day (1-3). 3. Days off.
+4. Rotation: how often each post type happens. 5. Timezone city.
+6. Anna's paintings with stages and dates (replace data/works.json examples).
+7. Past posts, for a performance evaluation that weights the rotation.
 
-**Platforms Anna is on.** Threads, Substack, Instagram, TikTok, Facebook, YouTube.
+**Platforms:** Threads, Substack, Instagram, TikTok, Facebook, YouTube.
+**Post types Brian listed:** finished work; work in progress; studio shot; reference picture vs finished
+painting; painting process video; finished work for sale; new prints for sale; print drop; newsletter;
+photo shoot; talking to camera. Goals: sell paintings, sell prints, build a fan base.
 
-**Kinds of posts Brian listed.** Finished work; work in progress; studio shots; reference pictures;
-work for sale; videos of paintings; print drops; newsletters; slice of life; talking to camera.
-Goals: sell finished paintings, sell prints, build a fan base.
+**What is built (all in this repo):**
+- `index.html`, `js/app.js`, `js/engine.js`: planner app. Tabs: Today, Week, Pipeline (paintings and
+  stages; dates drive per-painting posts), Library (sorted media), Playbook.
+- `tools/ingest.mjs`: sorts photos/videos from a folder by painting and shot type using the Claude API
+  (model claude-opus-5-5, structured output). Writes `media/index.json`, files copies under
+  `media/<painting>/<type>/`, thumbnails in `media/_thumbs/`. Originals untouched. Needs ffmpeg and
+  `.env` with ANTHROPIC_API_KEY. NOT YET RUN ON REAL PHOTOS: first real run is the test.
+- `tools/serve.mjs`: local server, `npm start` -> http://localhost:3324, with re-file and sort APIs.
+- `tools/schedule_mac.sh`: LaunchAgent that runs the sorter daily. Brian has scheduled it for
+  ~/Desktop/Studio at 20:00 (verify with `launchctl list | grep anna`).
+- `tools/build_calendar.mjs` + `.github/workflows/site.yml`: ICS feed, GitHub Pages deploy (Pages not
+  enabled yet; only needed for the phone-hosted app).
+- Google Calendar: Brian connected it in the cloud session (calendar annadouglasartist@gmail.com,
+  account timezone is UTC, so set an explicit timezone on events). In a Mac session, connect it again
+  or write events through whatever calendar access that session has. Show Brian the schedule as a
+  table and get approval before creating events.
 
-**Delivery.** Google Calendar connector was connected right before this handoff. Create events on
-the Google Calendar directly (not the .ics feed). Show Brian the proposed schedule in chat first,
-then create events after he approves.
-
-**Pending.** Anna's real paintings and stages. Her timezone (config.json says America/New_York, a
-guess). GitHub Pages for this repo is not enabled (Settings -> Pages -> Source: GitHub Actions);
-only needed if the web app is wanted alongside the calendar.
+**Next steps, in order:** run the sorter once on real photos and fix what it gets wrong; collect the
+seven inputs above; rebuild the cadence as one daily block with rotation; write the schedule table;
+create calendar events after approval.
