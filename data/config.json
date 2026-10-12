@@ -1,0 +1,14 @@
+{
+  "artist": "Anna Douglas",
+  "timezone": "America/New_York",
+  "siteUrl": "https://brianolek.github.io/anna-studio/",
+  "calendarHorizonDays": 56,
+  "paintingEveryDays": 3,
+  "campaignDays": 14,
+  "goals": [
+    "Sell finished paintings",
+    "Sell prints",
+    "Build a fan base that buys"
+  ],
+  "notes": "Edit timezone to where Anna lives. paintingEveryDays is the production rhythm: one finished painting every N days. campaignDays is how long each painting's content cycle runs after it is finished."
+}

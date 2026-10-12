@@ -1,0 +1,18 @@
+{
+  "_about": "Dated events generated per work. 'anchor' is a date field on the work (started, finished, listed, drop, sold). offsetDays shifts from that date. 'requires' is a boolean field the work must have. Milestones take over the day's regular slot on the same platform so she is not double posting. With a painting finished every 3 days, these overlap: that is the ecosystem.",
+  "rules": [
+    { "id": "reference-day", "anchor": "started",  "offsetDays": 0,  "type": "reference",      "platforms": ["threads"] },
+    { "id": "reveal-day",    "anchor": "finished", "offsetDays": 0,  "type": "reveal",         "platforms": ["instagram", "threads", "facebook"] },
+    { "id": "video-after",   "anchor": "finished", "offsetDays": 1,  "type": "process",        "platforms": ["tiktok"] },
+    { "id": "story-after",   "anchor": "finished", "offsetDays": 2,  "type": "story",          "platforms": ["threads"] },
+    { "id": "forsale-day",   "anchor": "listed",   "offsetDays": 0,  "type": "forsale",        "platforms": ["threads", "instagram"] },
+    { "id": "forsale-again", "anchor": "listed",   "offsetDays": 5,  "type": "forsale",        "platforms": ["threads", "facebook"] },
+    { "id": "prints-after",  "anchor": "listed",   "offsetDays": 3,  "type": "prints",         "platforms": ["instagram", "threads"], "requires": "prints" },
+    { "id": "drop-t7",       "anchor": "drop",     "offsetDays": -7, "type": "drop-teaser",    "platforms": ["threads", "instagram"] },
+    { "id": "drop-t3",       "anchor": "drop",     "offsetDays": -3, "type": "story",          "platforms": ["threads"] },
+    { "id": "drop-t1",       "anchor": "drop",     "offsetDays": -1, "type": "drop-reminder",  "platforms": ["substack", "threads", "instagram"] },
+    { "id": "drop-t0",       "anchor": "drop",     "offsetDays": 0,  "type": "drop-live",      "platforms": ["substack", "threads", "instagram", "facebook", "tiktok"], "time": "10:00" },
+    { "id": "drop-t2",       "anchor": "drop",     "offsetDays": 2,  "type": "drop-last-call", "platforms": ["threads", "instagram"] },
+    { "id": "sold-day",      "anchor": "sold",     "offsetDays": 0,  "type": "collector",      "platforms": ["threads", "instagram"] }
+  ]
+}

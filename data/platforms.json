@@ -1,0 +1,106 @@
+[
+  {
+    "id": "threads",
+    "name": "Threads",
+    "enabled": true,
+    "role": "Primary. Where it is popping off. Text-first, conversational, fast replies win. Three posts a day, every day.",
+    "targetPerWeek": 21,
+    "format": "Text up to 500 chars, 1-10 images, or video under 5 min. Lead with a line that stands alone. Post the image, say one true thing, ask one question.",
+    "bestWindows": ["08:00", "12:30", "20:00"],
+    "rules": [
+      "Reply to every comment within the first 30 minutes. That window decides reach.",
+      "One idea per post. Save the rest for the next slot.",
+      "Every finished painting gets a for-sale post here within 3 days of the reveal.",
+      "Repost your own best post from 30+ days ago once a week with a new first line."
+    ]
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "enabled": true,
+    "role": "The portfolio and the storefront window. Collectors check it before they buy. Feed is curated, Stories are raw.",
+    "targetPerWeek": 13,
+    "format": "Feed 4:5 (1080x1350). Reels 9:16 up to 90s, hook in the first second, captions on. Stories daily, 15s each, raw is fine.",
+    "bestWindows": ["11:00", "19:00"],
+    "rules": [
+      "Feed grid: finished work, for-sale posts, the strongest process shots.",
+      "Stories: WIP, reference, studio, packing orders, polls, link stickers to the shop.",
+      "Pin the current drop or print listing to the top of the grid."
+    ]
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "enabled": true,
+    "role": "Discovery engine. Painting videos and talking-to-camera. Pure reach, no followers needed.",
+    "targetPerWeek": 4,
+    "format": "9:16 vertical, 15-60s. First frame is the most interesting moment, not a logo. Voiceover or on-screen text with what you were thinking.",
+    "bestWindows": ["18:00"],
+    "rules": [
+      "Same file goes to Reels, YouTube Shorts, and Facebook Reels. Record once, post four times.",
+      "Big brush moments, the pull-back reveal, and your face explaining one thing."
+    ]
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "enabled": true,
+    "role": "Older collectors with money live here. Cross-post the Instagram feed and the videos. Low effort, real sales.",
+    "targetPerWeek": 4,
+    "format": "Same image or video as Instagram. Longer captions are fine here, people read. Always put the price and how to buy in the post.",
+    "bestWindows": ["12:00"],
+    "rules": [
+      "Cross-post every reveal, every for-sale post, every drop.",
+      "Share to relevant art groups when it is a finished piece, not WIP."
+    ]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "enabled": true,
+    "role": "Shorts from the same video files, plus one talking-to-camera video a week. The place the superfans end up.",
+    "targetPerWeek": 3,
+    "format": "Shorts 9:16 under 60s, same as TikTok. Talking videos 2-6 min, 16:9 or 9:16, phone at eye level, window light, title says what you talk about.",
+    "bestWindows": ["17:00"],
+    "rules": [
+      "Every Short links to the talking video in the comment.",
+      "Title with words people search: 'oil painting', 'how I', 'studio vlog'."
+    ]
+  },
+  {
+    "id": "substack",
+    "name": "Substack",
+    "enabled": true,
+    "role": "The only audience you own. Newsletter every week, drops announced here first, 24 hours before the socials.",
+    "targetPerWeek": 1,
+    "format": "Under 300 words. Two or three images. One story. One link to what is for sale. Subject line under 6 words.",
+    "bestWindows": ["10:00"],
+    "rules": [
+      "Every drop: Substack first, socials the next day.",
+      "Every post that performs on Threads: mention the newsletter exists."
+    ]
+  },
+  {
+    "id": "shop",
+    "name": "Studio ops",
+    "enabled": true,
+    "role": "Not a platform. The behind-the-scenes tasks that unlock the posts: photographing finished work, listing it, filming, planning.",
+    "targetPerWeek": 0,
+    "format": "",
+    "bestWindows": ["14:00"],
+    "rules": [
+      "Every finished piece photographed within 3 days of finishing. One good photo feeds ten posts.",
+      "Every finished piece listed or marked sold within a week."
+    ]
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "enabled": false,
+    "role": "Off for now. Turn on later for evergreen search traffic to prints.",
+    "targetPerWeek": 1,
+    "format": "2:3 vertical, searchable titles, every pin links to the shop.",
+    "bestWindows": ["16:00"],
+    "rules": []
+  }
+]

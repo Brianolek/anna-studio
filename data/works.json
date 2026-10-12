@@ -1,0 +1,9 @@
+[
+  { "id": "a01", "title": "Example painting 1", "stage": "sold",        "started": "2026-09-27", "finished": "2026-09-30", "listed": "2026-10-01", "sold": "2026-10-08", "prints": true },
+  { "id": "a02", "title": "Example painting 2", "stage": "listed",      "started": "2026-09-30", "finished": "2026-10-03", "listed": "2026-10-05", "prints": true },
+  { "id": "a03", "title": "Example painting 3", "stage": "listed",      "started": "2026-10-03", "finished": "2026-10-06", "listed": "2026-10-08" },
+  { "id": "a04", "title": "Example painting 4", "stage": "finished",    "started": "2026-10-06", "finished": "2026-10-09", "drop": "2026-10-24", "prints": true },
+  { "id": "a05", "title": "Example painting 5", "stage": "finished",    "started": "2026-10-09", "finished": "2026-10-12" },
+  { "id": "a06", "title": "Example painting 6", "stage": "in-progress", "started": "2026-10-12",
+    "notes": "Replace these example rows with Anna's real works. Stages: idea, in-progress, finished, listed, sold, archived. Dates: started, finished, listed, drop, sold." }
+]

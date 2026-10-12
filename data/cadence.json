@@ -1,0 +1,50 @@
+{
+  "_about": "Recurring slots. 'pool' is the list of post types the engine chooses from for that slot, rotating by day and skipping types with no eligible work. 'every' + 'phase' make a slot biweekly. Times are in config.timezone.",
+  "daily": [
+    { "id": "am-post",   "time": "08:00", "platform": "threads",   "pool": ["wip", "reference", "studio", "story", "wip", "life"] },
+    { "id": "am-engage", "time": "08:15", "platform": "threads",   "type": "engage" },
+    { "id": "ig-story",  "time": "10:00", "platform": "instagram", "pool": ["wip", "studio", "reference", "life"], "label": "Story" },
+    { "id": "noon-post", "time": "12:30", "platform": "threads",   "pool": ["forsale", "reveal", "wip", "story", "collector", "prints"] },
+    { "id": "pm-post",   "time": "20:00", "platform": "threads",   "pool": ["studio", "story", "wip", "repost", "life", "forsale"] },
+    { "id": "pm-engage", "time": "20:15", "platform": "threads",   "type": "engage" }
+  ],
+  "weekly": {
+    "mon": [
+      { "id": "ig-feed",  "time": "11:00", "platform": "instagram", "pool": ["reveal", "forsale", "wip"], "label": "Feed" },
+      { "id": "fb-post",  "time": "12:00", "platform": "facebook",  "pool": ["reveal", "forsale", "wip"] },
+      { "id": "tt-video", "time": "18:00", "platform": "tiktok",    "type": "process" }
+    ],
+    "tue": [
+      { "id": "ig-reel",  "time": "11:00", "platform": "instagram", "type": "talking", "label": "Reel" },
+      { "id": "yt-short", "time": "17:00", "platform": "youtube",   "type": "process", "label": "Short" },
+      { "id": "tt-talk",  "time": "18:00", "platform": "tiktok",    "type": "talking" }
+    ],
+    "wed": [
+      { "id": "ig-feed",  "time": "11:00", "platform": "instagram", "pool": ["forsale", "reveal", "story"], "label": "Feed" },
+      { "id": "fb-post",  "time": "12:00", "platform": "facebook",  "pool": ["forsale", "story", "collector"] },
+      { "id": "tt-video", "time": "18:00", "platform": "tiktok",    "type": "process" }
+    ],
+    "thu": [
+      { "id": "ig-reel",  "time": "11:00", "platform": "instagram", "type": "process", "label": "Reel" },
+      { "id": "photos",   "time": "14:00", "platform": "shop",      "type": "photo-session" },
+      { "id": "listing",  "time": "14:45", "platform": "shop",      "type": "listing" },
+      { "id": "yt-talk",  "time": "17:00", "platform": "youtube",   "type": "talking", "label": "Talking video" }
+    ],
+    "fri": [
+      { "id": "ig-feed",  "time": "11:00", "platform": "instagram", "pool": ["reveal", "prints", "forsale"], "label": "Feed" },
+      { "id": "fb-post",  "time": "12:00", "platform": "facebook",  "pool": ["reveal", "prints", "talking"] },
+      { "id": "yt-short", "time": "17:00", "platform": "youtube",   "type": "process", "label": "Short" },
+      { "id": "tt-talk",  "time": "18:00", "platform": "tiktok",    "type": "talking" }
+    ],
+    "sat": [
+      { "id": "newsletter", "time": "10:00", "platform": "substack", "type": "newsletter" },
+      { "id": "record",     "time": "13:00", "platform": "shop",     "type": "process", "label": "Record painting footage for next week", "minutes": 60, "kind": "ritual" },
+      { "id": "film",       "time": "14:00", "platform": "shop",     "type": "film" },
+      { "id": "fb-post",    "time": "12:00", "platform": "facebook", "pool": ["forsale", "wip", "studio"] }
+    ],
+    "sun": [
+      { "id": "plan",     "time": "17:00", "platform": "shop", "type": "plan" },
+      { "id": "captions", "time": "17:30", "platform": "shop", "type": "batch-captions" }
+    ]
+  }
+}

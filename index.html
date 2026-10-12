@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex">
+  <title>Studio Days</title>
+  <meta name="description" content="Daily posting plan and work pipeline for Anna Douglas.">
+  <meta name="theme-color" content="#f4f1ea">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand"><span class="dot"></span><span id="artist">Studio Days</span></div>
+    <nav class="tabs" role="tablist">
+      <button data-tab="today" class="on">Today</button>
+      <button data-tab="week">Week</button>
+      <button data-tab="pipeline">Pipeline</button>
+      <button data-tab="playbook">Playbook</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="tab-today" class="tab on">
+      <div class="daybar">
+        <button id="prev" aria-label="Previous day">&larr;</button>
+        <div class="daytitle"><div id="dayname">Loading</div><div id="daymeta" class="muted"></div></div>
+        <button id="next" aria-label="Next day">&rarr;</button>
+      </div>
+      <div class="stats">
+        <div class="stat"><b id="doneCount">0</b><span>done today</span></div>
+        <div class="stat"><b id="streak">0</b><span>day streak</span></div>
+        <div class="stat"><b id="minutes">0</b><span>min planned</span></div>
+      </div>
+      <div id="warnings"></div>
+      <ol id="agenda" class="agenda"></ol>
+      <p class="muted small">Tap a card for the how. Check it off when it is posted. Check-offs live on this device only.</p>
+    </section>
+
+    <section id="tab-week" class="tab">
+      <div class="daybar">
+        <button id="wprev" aria-label="Previous week">&larr;</button>
+        <div class="daytitle"><div id="weektitle">Week</div><div class="muted">Mon to Sun</div></div>
+        <button id="wnext" aria-label="Next week">&rarr;</button>
+      </div>
+      <div id="load" class="load"></div>
+      <div id="week" class="week"></div>
+    </section>
+
+    <section id="tab-pipeline" class="tab">
+      <p class="muted">Every painting moves idea &rarr; in-progress &rarr; finished &rarr; listed &rarr; sold. Set a finished date and the reveal, video, and story posts schedule themselves. Set a listed date and the for-sale and prints posts do. Set a drop date and the whole drop sequence does. The row under each painting shows which of its lifecycle posts have gone out.</p>
+      <div id="pipelineNote" class="note"></div>
+      <form id="addWork" class="addwork">
+        <input name="title" placeholder="New work title" required>
+        <select name="stage"></select>
+        <button type="submit">Add</button>
+      </form>
+      <div id="pipeline"></div>
+      <div class="row">
+        <button id="exportWorks" class="btn">Download works.json</button>
+        <button id="resetWorks" class="btn ghost">Reset to repo version</button>
+      </div>
+      <p class="muted small">Changes here save on this device. To push them into the shared calendar feed, download works.json and replace <code>data/works.json</code> in the repo.</p>
+    </section>
+
+    <section id="tab-playbook" class="tab">
+      <h2>Platforms</h2>
+      <div id="platforms"></div>
+      <h2>Post types, in the order a work lives through them</h2>
+      <div id="types"></div>
+      <h2>Google Calendar</h2>
+      <ol class="steps">
+        <li>Copy this feed address: <code id="icsUrl"></code> <button id="copyIcs" class="btn tiny">Copy</button></li>
+        <li>In Google Calendar on the web: Other calendars &rarr; <b>+</b> &rarr; <b>From URL</b> &rarr; paste &rarr; Add calendar.</li>
+        <li>Every slot shows up as an event with a reminder and the full instructions in the description. Google refreshes the feed about once a day.</li>
+      </ol>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
