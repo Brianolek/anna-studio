@@ -3,8 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "calendar": "node tools/build_calendar.mjs",
-    "serve": "python3 -m http.server 3324"
+    "start": "node tools/serve.mjs",
+    "ingest": "node tools/ingest.mjs",
+    "calendar": "node tools/build_calendar.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.133.0",

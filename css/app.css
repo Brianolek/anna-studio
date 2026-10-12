@@ -101,3 +101,17 @@ main { max-width: 760px; margin: 0 auto; padding: 0 16px 80px; }
 .cov span { font-size: .7rem; border: 1px solid var(--line); border-radius: 999px; padding: 1px 7px; color: var(--ink-2); }
 .cov span.due { border-color: var(--accent); color: var(--accent); }
 .cov span.on { background: var(--ok); border-color: var(--ok); color: #fff; }
+
+.libbar { display: flex; gap: 6px; margin: 14px 0 10px; flex-wrap: wrap; }
+.libbar select { font: inherit; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px; flex: 1; min-width: 120px; }
+.log { display: none; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px; font-size: .78rem; max-height: 220px; overflow: auto; white-space: pre-wrap; }
+.log.on { display: block; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.tile { background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.tile img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; cursor: pointer; }
+.tile .meta { padding: 6px 8px; font-size: .74rem; color: var(--ink-2); }
+.tile .meta b { color: var(--ink); display: block; font-weight: 600; }
+.tile .edit { display: none; padding: 0 8px 8px; gap: 4px; flex-direction: column; }
+.tile.open .edit { display: flex; }
+.tile select { font: inherit; font-size: .8rem; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 4px; }
+.tile .low { color: var(--accent); }

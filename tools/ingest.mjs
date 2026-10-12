@@ -185,11 +185,14 @@ async function main() {
     for (const r of results) {
       const f = batch[r.n]; if (!f) continue;
       const { work, dest } = place(f, r);
-      const row = { hash: f.hash, src: f.src, dest, kind: f.kind, captured: f.captured.toISOString(), work, new_work_title: r.new_work_title, shot_type: r.shot_type, description: r.description, confidence: r.confidence };
+      const thumb = path.join(OUT, '_thumbs', `${f.hash}.jpg`);
+      const row = { hash: f.hash, src: f.src, dest, thumb, kind: f.kind, captured: f.captured.toISOString(), work, new_work_title: r.new_work_title, shot_type: r.shot_type, description: r.description, confidence: r.confidence };
       console.log(`${row.captured.slice(0, 10)}  ${(work || (r.new_work_title ? 'NEW: ' + r.new_work_title : '_unsorted')).padEnd(24)} ${r.shot_type.padEnd(13)} ${r.confidence.toFixed(2)}  ${r.description}`);
       if (flag('dry')) continue;
       fs.mkdirSync(path.dirname(dest), { recursive: true });
       if (!fs.existsSync(dest)) { try { fs.linkSync(f.src, dest); } catch { fs.copyFileSync(f.src, dest); } }
+      fs.mkdirSync(path.dirname(thumb), { recursive: true });
+      fs.copyFileSync(f.previews[f.kind === 'video' ? 1 : 0], thumb);
       index.files[f.hash] = row;
       if (work) {
         index.works[work] ||= { title: works.find((w) => w.id === work).title };

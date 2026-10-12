@@ -29,6 +29,18 @@ A milestone (drop day, reveal day) takes over the regular slot on that platform,
 
 The Pipeline tab shows a row under each painting: reference, WIP, video, finished, story, for sale, talking, prints, collector. Green means a post of that kind about that painting was checked off. Red means it is due in the painting's current stage. The Sunday review is: look for red.
 
+## Media library (runs on the Mac)
+
+Anna's photos and videos go into one folder (`inbox/` by default, or any folder such as an iCloud album export). The sorting job files each one by painting and shot type and writes `media/index.json`:
+
+```
+node tools/serve.mjs              # starts the app at http://localhost:3324 with the Library tab live
+node tools/ingest.mjs             # or press "Sort inbox" in the Library tab
+node tools/ingest.mjs --inbox ~/Pictures/Studio --dry   # preview without filing
+```
+
+Shot types: reference, wip, finished, detail, process_video, print, studio, photoshoot, other. Sorted copies land in `media/<painting>/<type>/`; originals are untouched. Low-confidence calls are flagged in the Library tab; tap a photo to re-file it. Needs `ANTHROPIC_API_KEY` in the environment and ffmpeg installed (`brew install ffmpeg`).
+
 ## Google Calendar
 
 Google Calendar → Other calendars → **+** → **From URL** → `https://brianolek.github.io/anna-studio/calendar.ics`.

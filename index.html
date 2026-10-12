@@ -16,6 +16,7 @@
       <button data-tab="today" class="on">Today</button>
       <button data-tab="week">Week</button>
       <button data-tab="pipeline">Pipeline</button>
+      <button data-tab="library">Library</button>
       <button data-tab="playbook">Playbook</button>
     </nav>
   </header>
@@ -61,6 +62,17 @@
         <button id="resetWorks" class="btn ghost">Reset to repo version</button>
       </div>
       <p class="muted small">Changes here save on this device. To push them into the shared calendar feed, download works.json and replace <code>data/works.json</code> in the repo.</p>
+    </section>
+
+    <section id="tab-library" class="tab">
+      <div class="libbar">
+        <select id="libWork"><option value="">All paintings</option></select>
+        <select id="libType"><option value="">All types</option></select>
+        <button id="runIngest" class="btn">Sort inbox</button>
+      </div>
+      <pre id="ingestLog" class="log"></pre>
+      <div id="libNote" class="note"></div>
+      <div id="libGrid" class="grid"></div>
     </section>
 
     <section id="tab-playbook" class="tab">

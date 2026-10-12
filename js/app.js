@@ -202,6 +202,63 @@ $('#resetWorks').onclick = () => {
   LS.del('anna:works'); state.data.works = state.repoWorks; renderAll();
 };
 
+// ---------- Library ----------
+const SHOT_TYPES = ['reference', 'wip', 'finished', 'detail', 'process_video', 'print', 'studio', 'photoshoot', 'other'];
+let lib = null; // { files, works }
+async function loadLibrary() {
+  if (lib) return lib;
+  try {
+    const r = await fetch('/api/index', { cache: 'no-store' });
+    if (r.ok) { lib = await r.json(); return lib; }
+  } catch { /* not running under tools/serve.mjs */ }
+  try {
+    const r = await fetch('media/index.json', { cache: 'no-store' });
+    if (r.ok) { const idx = await r.json(); lib = { files: Object.values(idx.files), works: idx.works, readOnly: true }; return lib; }
+  } catch { /* no media */ }
+  lib = { files: [], works: {}, readOnly: true };
+  return lib;
+}
+async function renderLibrary() {
+  const L = await loadLibrary();
+  const wsel = $('#libWork'), tsel = $('#libType');
+  if (wsel.options.length === 1) {
+    for (const w of state.data.works) wsel.add(new Option(w.title, w.id));
+    wsel.add(new Option('Unsorted', '_unsorted'));
+    for (const t of SHOT_TYPES) tsel.add(new Option(t, t));
+  }
+  const fw = wsel.value, ft = tsel.value;
+  const files = L.files.filter((f) => (!fw || (fw === '_unsorted' ? !f.work : f.work === fw)) && (!ft || f.shot_type === ft)).sort((a, b) => (b.captured || '').localeCompare(a.captured || ''));
+  $('#libNote').textContent = L.files.length ? (L.readOnly ? `${files.length} of ${L.files.length} files. Run "node tools/serve.mjs" on the Mac to re-file from here.` : `${files.length} of ${L.files.length} files. Tap a photo to change its painting or type.`) : 'No media yet. Put photos and videos in the inbox folder and press Sort inbox.';
+  const wname = (id) => (state.data.works.find((w) => w.id === id) || {}).title || (id ? id : 'Unsorted');
+  $('#libGrid').innerHTML = files.map((f) => `
+    <div class="tile" data-hash="${esc(f.hash)}">
+      <img src="${esc(f.thumbUrl || f.thumb || '')}" alt="" loading="lazy">
+      <div class="meta"><b>${esc(wname(f.work))}${f.new_work_title && !f.work ? ' · new: ' + esc(f.new_work_title) : ''}</b>${esc(f.shot_type)} · ${(f.captured || '').slice(0, 10)}${f.confidence < 0.6 ? ' <span class="low">check</span>' : ''}<br>${esc(f.description || '')}</div>
+      <div class="edit">
+        <select data-f="work"><option value="">Unsorted</option>${state.data.works.map((w) => `<option value="${w.id}" ${w.id === f.work ? 'selected' : ''}>${esc(w.title)}</option>`).join('')}</select>
+        <select data-f="shot_type">${SHOT_TYPES.map((t) => `<option ${t === f.shot_type ? 'selected' : ''}>${t}</option>`).join('')}</select>
+      </div>
+    </div>`).join('');
+}
+$('#libWork').onchange = $('#libType').onchange = () => renderLibrary();
+$('#libGrid').addEventListener('click', (ev) => { const t = ev.target.closest('.tile'); if (t && ev.target.tagName === 'IMG' && !lib.readOnly) t.classList.toggle('open'); });
+$('#libGrid').addEventListener('change', async (ev) => {
+  const t = ev.target.closest('.tile'); if (!t) return;
+  const f = lib.files.find((x) => x.hash === t.dataset.hash); if (!f) return;
+  const work = t.querySelector('[data-f=work]').value || null;
+  const shot_type = t.querySelector('[data-f=shot_type]').value;
+  const r = await fetch('/api/refile', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ hash: f.hash, work, shot_type }) });
+  if (r.ok) { Object.assign(f, await r.json()); renderLibrary(); } else alert('Could not re-file: ' + (await r.text()));
+});
+$('#runIngest').onclick = async () => {
+  const log = $('#ingestLog'); log.classList.add('on'); log.textContent = 'Sorting...\n';
+  const r = await fetch('/api/ingest', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' });
+  if (!r.ok || !r.body) { log.textContent += 'Not available. Run node tools/serve.mjs on the Mac.'; return; }
+  const reader = r.body.getReader(); const dec = new TextDecoder();
+  for (;;) { const { done, value } = await reader.read(); if (done) break; log.textContent += dec.decode(value); log.scrollTop = log.scrollHeight; }
+  lib = null; renderLibrary();
+};
+
 // ---------- Playbook ----------
 function renderPlaybook() {
   const { platforms, postTypes } = state.data;
@@ -240,6 +297,7 @@ function renderAll() {
   if (state.tab === 'today') renderToday();
   if (state.tab === 'week') renderWeek();
   if (state.tab === 'pipeline') renderPipeline();
+  if (state.tab === 'library') renderLibrary();
   if (state.tab === 'playbook') renderPlaybook();
 }
 
