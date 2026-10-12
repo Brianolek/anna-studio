@@ -43,7 +43,7 @@ function fold(line) {
 }
 
 const start = addDays(ymd(new Date()), -1); // include yesterday so a late-night check still sees the day
-const now = stamp(new Date());
+const now = stamp(new Date(`${start}T00:00:00Z`)); // stable per day so the file only changes when the schedule does
 const lines = [
   'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Studio Days//anna//EN', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH',
   `X-WR-CALNAME:${escText(data.config.artist)} · Studio Days`, `X-WR-TIMEZONE:${tz}`, 'X-PUBLISHED-TTL:PT12H', 'REFRESH-INTERVAL;VALUE=DURATION:PT12H',
