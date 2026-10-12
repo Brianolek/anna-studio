@@ -39,7 +39,13 @@ node tools/ingest.mjs             # or press "Sort inbox" in the Library tab
 node tools/ingest.mjs --inbox ~/Pictures/Studio --dry   # preview without filing
 ```
 
-Shot types: reference, wip, finished, detail, process_video, print, studio, photoshoot, other. Sorted copies land in `media/<painting>/<type>/`; originals are untouched. Low-confidence calls are flagged in the Library tab; tap a photo to re-file it. Needs `ANTHROPIC_API_KEY` in the environment and ffmpeg installed (`brew install ffmpeg`).
+Shot types: reference, wip, finished, detail, process_video, print, studio, photoshoot, other. Sorted copies land in `media/<painting>/<type>/`; originals are untouched. Low-confidence calls are flagged in the Library tab; tap a photo to re-file it. Needs ffmpeg (`brew install ffmpeg`) and an API key in a file named `.env` in the project folder, one line: `ANTHROPIC_API_KEY=sk-ant-...`
+
+To sort a folder automatically once a day:
+
+```
+bash tools/schedule_mac.sh ~/Desktop/Studio 20:00
+```
 
 ## Google Calendar
 

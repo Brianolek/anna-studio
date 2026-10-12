@@ -10,6 +10,8 @@ import { fileURLToPath } from 'node:url';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, '..');
+// Load ANTHROPIC_API_KEY etc. from <repo>/.env if present (KEY=value lines).
+try { for (const line of fs.readFileSync(path.join(root, '.env'), 'utf8').split('\n')) { const m = /^\s*([A-Z_][A-Z0-9_]*)\s*=\s*(.*?)\s*$/.exec(line); if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, ''); } } catch { /* no .env */ }
 const PORT = Number(process.env.PORT || 3324);
 const MEDIA = path.join(root, 'media');
 const INDEX = path.join(MEDIA, 'index.json');

@@ -21,6 +21,8 @@ import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, '..');
+// Load ANTHROPIC_API_KEY etc. from <repo>/.env if present (KEY=value lines).
+try { for (const line of fs.readFileSync(path.join(root, '.env'), 'utf8').split('\n')) { const m = /^\s*([A-Z_][A-Z0-9_]*)\s*=\s*(.*?)\s*$/.exec(line); if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, ''); } } catch { /* no .env */ }
 const args = process.argv.slice(2);
 const opt = (name, def) => { const i = args.indexOf(`--${name}`); return i >= 0 ? args[i + 1] : def; };
 const flag = (name) => args.includes(`--${name}`);
