@@ -8,234 +8,8 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:2026-10-29:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T120000Z
-DTEND:20261029T121000Z
-SUMMARY:[Threads] Work in progress: "Example painting 6"
-DESCRIPTION:WORK: Example painting 6 (stage in-progress\, Replace these exa
- mple rows with Anna's real works. Stages: idea\, in-progress\, finished\, 
- listed\, sold\, archived. Dates: started\, finished\, listed\, drop\, sold
- .)\nWHY: The most reliable post there is. People love watching a thing get
-  made. With a painting every 3 days\, there is always one on the easel.\nS
- HOT: Canvas on the easel\, phone photo\, natural light / Detail crop of th
- e part you worked on today / Palette and brushes next to the canvas\nCAPTI
- ON: Where it is at today. One sentence on what is working or what is fight
- ing you.\nASK: Ask whether to push it further or stop.\nFORMAT (Threads): 
- Text up to 500 chars\, 1-10 images\, or video under 5 min. Lead with a lin
- e that stands alone. Post the image\, say one true thing\, ask one questio
- n.\nTIME: about 10 min\n\nOpen the app: https://brianolek.github.io/anna-s
- tudio/
-CATEGORIES:Threads,post
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Threads] Work in progress: "Example painting 6"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T121500Z
-DTEND:20261029T123000Z
-SUMMARY:[Threads] Reply block
-DESCRIPTION:WHY: Reach on Threads is made in the replies. 15 minutes\, twic
- e a day\, right after your posts.\nCAPTION: Reply to every comment on toda
- y's posts. Then leave 10 real comments on other painters' and collectors' 
- posts. No emoji-only replies.\nFORMAT (Threads): Text up to 500 chars\, 1-
- 10 images\, or video under 5 min. Lead with a line that stands alone. Post
-  the image\, say one true thing\, ask one question.\nTIME: about 15 min\n\
- nOpen the app: https://brianolek.github.io/anna-studio/
-CATEGORIES:Threads,ritual
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Threads] Reply block
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T140000Z
-DTEND:20261029T140500Z
-SUMMARY:[Instagram (Story)] Slice of life
-DESCRIPTION:WHY: Outside the studio. The walk\, the coffee\, the light\, wh
- at you are reading. Keeps the account human between paintings.\nSHOT: What
- ever is true today\, one photo\nCAPTION: One line. No explanation needed.\
- nFORMAT (Instagram): Feed 4:5 (1080x1350). Reels 9:16 up to 90s\, hook in 
- the first second\, captions on. Stories daily\, 15s each\, raw is fine.\nT
- IME: about 5 min\n\nOpen the app: https://brianolek.github.io/anna-studio/
-CATEGORIES:Instagram,post
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Instagram (Story)] Slice of life
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T150000Z
-DTEND:20261029T153000Z
-SUMMARY:[Instagram (Reel)] Painting video: "Example painting 2"
-DESCRIPTION:WORK: Example painting 2 (stage listed\, prints)\nWHY: Reach. V
- ideo of the painting being made\, or a slow pan over the finished surface\
- , is how strangers find the work. Record once\, post to four platforms.\nS
- HOT: Phone on a tripod\, 9:16\, over the shoulder or straight on / 10-20 m
- in of real painting cut to the best 20-45s / Or: slow pan across the finis
- hed painting\, ending on a pull-back of the whole thing\nCAPTION: On-scree
- n text or voiceover: what you were thinking during this part. Keep it huma
- n.\nASK: Follow to see it finished / link to buy.\nFORMAT (Instagram): Fee
- d 4:5 (1080x1350). Reels 9:16 up to 90s\, hook in the first second\, capti
- ons on. Stories daily\, 15s each\, raw is fine.\nTIME: about 30 min\n\nOpe
- n the app: https://brianolek.github.io/anna-studio/
-CATEGORIES:Instagram,post
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Instagram (Reel)] Painting video: "Example painting 2"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T163000Z
-DTEND:20261029T165000Z
-SUMMARY:[Threads] Finished work: "Example painting 3"
-DESCRIPTION:WORK: Example painting 3 (stage listed)\nWHY: The payoff post. 
- Shoot it properly. This image gets reused for the for-sale post\, the prin
- ts\, the newsletter\, the video.\nSHOT: Straight on\, even daylight\, no g
- lare\, cropped to the edges / One shot in a room or leaning on a wall for 
- scale / One tight detail\nCAPTION: Title\, size\, medium. One line about w
- hat it ended up being about. Whether it is available.\nASK: DM to collect 
- / link in bio / prints coming.\nFORMAT (Threads): Text up to 500 chars\, 1
- -10 images\, or video under 5 min. Lead with a line that stands alone. Pos
- t the image\, say one true thing\, ask one question.\nTIME: about 20 min\n
- \nOpen the app: https://brianolek.github.io/anna-studio/
-CATEGORIES:Threads,post
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Threads] Finished work: "Example painting 3"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T180000Z
-DTEND:20261029T184500Z
-SUMMARY:[Studio ops] Photograph finished work: "Example painting 5"
-DESCRIPTION:WORK: Example painting 5 (stage finished)\nWHY: One good photo 
- of each finished piece unlocks the reveal\, the for-sale post\, the prints
- \, the newsletter\, the video. Do it within 3 days of finishing.\nSHOT: Da
- ylight\, straight on\, no glare\, tripod / In a room for scale / Three det
- ails / A 20s slow pan video while you are at it\nTIME: about 45 min\n\nOpe
- n the app: https://brianolek.github.io/anna-studio/
-CATEGORIES:Studio ops,ritual
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Studio ops] Photograph finished work: "Example painting 5"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T184500Z
-DTEND:20261029T191500Z
-SUMMARY:[Studio ops] Create listing: "Example painting 4"
-DESCRIPTION:WORK: Example painting 4 (stage finished\, drop 2026-10-24\, pr
- ints)\nWHY: Finished work that is not for sale anywhere is not for sale. L
- ist it\, then move it to 'listed' so the for-sale posts start.\nSHOT: Use 
- the photo session images\nCAPTION: Title\, size\, medium\, year\, price\, 
- shipping\, the story paragraph.\nTIME: about 30 min\n\nOpen the app: https
- ://brianolek.github.io/anna-studio/
-CATEGORIES:Studio ops,ritual
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Studio ops] Create listing: "Example painting 4"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261029T210000Z
-DTEND:20261029T214000Z
-SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 1"
-DESCRIPTION:WORK: Example painting 1 (stage sold\, prints)\nWHY: This is wh
- at builds a fan base. People buy from a person they feel they know. One id
- ea per video: why this painting\, what you learned\, an answer to a commen
- t.\nSHOT: Phone at eye level\, window light\, the painting behind you / 30
- -90s for Shorts/TikTok\, or 2-6 min for YouTube / Start mid-thought\, no i
- ntro\nCAPTION: The one idea\, as the title. Example: 'Why I painted this t
- wice'.\nASK: Ask them to tell you which painting they would hang.\nFORMAT 
- (YouTube): Shorts 9:16 under 60s\, same as TikTok. Talking videos 2-6 min\
- , 16:9 or 9:16\, phone at eye level\, window light\, title says what you t
- alk about.\nTIME: about 40 min\n\nOpen the app: https://brianolek.github.i
- o/anna-studio/
-CATEGORIES:YouTube,post
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[YouTube (Talking video)] Talking to camera: "Example painting 
- 1"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261030T000000Z
-DTEND:20261030T000500Z
-SUMMARY:[Threads] Repost a winner: "Example painting 4"
-DESCRIPTION:WORK: Example painting 4 (stage finished\, drop 2026-10-24\, pr
- ints)\nWHY: Your best posts were seen by a fraction of your audience. Run 
- them again with a new first line.\nSHOT: Same image as the original\nCAPTI
- ON: Rewrite the first line. Keep the rest.\nASK: Same as the original.\nFO
- RMAT (Threads): Text up to 500 chars\, 1-10 images\, or video under 5 min.
-  Lead with a line that stands alone. Post the image\, say one true thing\,
-  ask one question.\nTIME: about 5 min\n\nOpen the app: https://brianolek.g
- ithub.io/anna-studio/
-CATEGORIES:Threads,post
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Threads] Repost a winner: "Example painting 4"
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
-DTSTART:20261030T001500Z
-DTEND:20261030T003000Z
-SUMMARY:[Threads] Reply block
-DESCRIPTION:WHY: Reach on Threads is made in the replies. 15 minutes\, twic
- e a day\, right after your posts.\nCAPTION: Reply to every comment on toda
- y's posts. Then leave 10 real comments on other painters' and collectors' 
- posts. No emoji-only replies.\nFORMAT (Threads): Text up to 500 chars\, 1-
- 10 images\, or video under 5 min. Lead with a line that stands alone. Post
-  the image\, say one true thing\, ask one question.\nTIME: about 15 min\n\
- nOpen the app: https://brianolek.github.io/anna-studio/
-CATEGORIES:Threads,ritual
-URL:https://brianolek.github.io/anna-studio/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Threads] Reply block
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-30:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T120000Z
 DTEND:20261030T120500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -261,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T121500Z
 DTEND:20261030T123000Z
 SUMMARY:[Threads] Reply block
@@ -282,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T140000Z
 DTEND:20261030T141000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -308,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T150000Z
 DTEND:20261030T151500Z
 SUMMARY:[Instagram (Feed)] Prints announcement: "Example painting 1"
@@ -331,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T160000Z
 DTEND:20261030T162000Z
 SUMMARY:[Facebook] Finished work: "Example painting 4"
@@ -355,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T163000Z
 DTEND:20261030T164500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -378,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T210000Z
 DTEND:20261030T213000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -403,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261030T220000Z
 DTEND:20261030T224000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 5"
@@ -427,7 +201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T000000Z
 DTEND:20261031T001000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -450,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T001500Z
 DTEND:20261031T003000Z
 SUMMARY:[Threads] Reply block
@@ -471,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T120000Z
 DTEND:20261031T120500Z
 SUMMARY:[Threads] Studio shot
@@ -493,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T121500Z
 DTEND:20261031T123000Z
 SUMMARY:[Threads] Reply block
@@ -514,7 +288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T140000Z
 DTEND:20261031T140500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -540,7 +314,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T140000Z
 DTEND:20261031T144500Z
 SUMMARY:[Substack] Newsletter
@@ -562,7 +336,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T160000Z
 DTEND:20261031T161000Z
 SUMMARY:[Facebook] Work in progress: "Example painting 6"
@@ -588,7 +362,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T163000Z
 DTEND:20261031T164500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -611,7 +385,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T170000Z
 DTEND:20261031T180000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -636,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261031T180000Z
 DTEND:20261031T190000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 4"
@@ -656,7 +430,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T000000Z
 DTEND:20261101T001000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -679,7 +453,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T001500Z
 DTEND:20261101T003000Z
 SUMMARY:[Threads] Reply block
@@ -700,7 +474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T130000Z
 DTEND:20261101T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 2"
@@ -723,7 +497,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T131500Z
 DTEND:20261101T133000Z
 SUMMARY:[Threads] Reply block
@@ -744,7 +518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T150000Z
 DTEND:20261101T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -764,7 +538,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T173000Z
 DTEND:20261101T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 1"
@@ -787,7 +561,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T220000Z
 DTEND:20261101T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -807,7 +581,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261101T223000Z
 DTEND:20261101T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -825,7 +599,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T010000Z
 DTEND:20261102T011000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -852,7 +626,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T011500Z
 DTEND:20261102T013000Z
 SUMMARY:[Threads] Reply block
@@ -873,7 +647,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T130000Z
 DTEND:20261102T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -900,7 +674,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T131500Z
 DTEND:20261102T133000Z
 SUMMARY:[Threads] Reply block
@@ -921,7 +695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T150000Z
 DTEND:20261102T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -943,7 +717,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T160000Z
 DTEND:20261102T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 4"
@@ -967,7 +741,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T170000Z
 DTEND:20261102T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 5"
@@ -991,7 +765,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T173000Z
 DTEND:20261102T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -1014,7 +788,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261102T230000Z
 DTEND:20261102T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 2"
@@ -1039,7 +813,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T010000Z
 DTEND:20261103T010500Z
 SUMMARY:[Threads] Slice of life
@@ -1060,7 +834,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T011500Z
 DTEND:20261103T013000Z
 SUMMARY:[Threads] Reply block
@@ -1081,7 +855,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T130000Z
 DTEND:20261103T130500Z
 SUMMARY:[Threads] Slice of life
@@ -1102,7 +876,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T131500Z
 DTEND:20261103T133000Z
 SUMMARY:[Threads] Reply block
@@ -1123,7 +897,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T150000Z
 DTEND:20261103T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -1145,7 +919,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T160000Z
 DTEND:20261103T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 2"
@@ -1169,7 +943,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T173000Z
 DTEND:20261103T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -1196,7 +970,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T220000Z
 DTEND:20261103T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 4"
@@ -1222,7 +996,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261103T230000Z
 DTEND:20261103T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 5"
@@ -1246,7 +1020,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T010000Z
 DTEND:20261104T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -1269,7 +1043,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T011500Z
 DTEND:20261104T013000Z
 SUMMARY:[Threads] Reply block
@@ -1290,7 +1064,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T130000Z
 DTEND:20261104T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -1317,7 +1091,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T131500Z
 DTEND:20261104T133000Z
 SUMMARY:[Threads] Reply block
@@ -1338,7 +1112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T150000Z
 DTEND:20261104T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -1358,7 +1132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T160000Z
 DTEND:20261104T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 2"
@@ -1381,7 +1155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T170000Z
 DTEND:20261104T171000Z
 SUMMARY:[Facebook] Sold / collector: "Example painting 1"
@@ -1404,7 +1178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T173000Z
 DTEND:20261104T174500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -1427,7 +1201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261104T230000Z
 DTEND:20261104T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 4"
@@ -1453,7 +1227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T010000Z
 DTEND:20261105T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 1"
@@ -1474,7 +1248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T011500Z
 DTEND:20261105T013000Z
 SUMMARY:[Threads] Reply block
@@ -1495,7 +1269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T130000Z
 DTEND:20261105T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -1521,7 +1295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T131500Z
 DTEND:20261105T133000Z
 SUMMARY:[Threads] Reply block
@@ -1542,7 +1316,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T150000Z
 DTEND:20261105T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -1568,7 +1342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T160000Z
 DTEND:20261105T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 4"
@@ -1593,7 +1367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T173000Z
 DTEND:20261105T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -1616,7 +1390,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T190000Z
 DTEND:20261105T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 5"
@@ -1636,7 +1410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T194500Z
 DTEND:20261105T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 5"
@@ -1656,7 +1430,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261105T220000Z
 DTEND:20261105T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 2"
@@ -1682,7 +1456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T010000Z
 DTEND:20261106T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -1705,7 +1479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T011500Z
 DTEND:20261106T013000Z
 SUMMARY:[Threads] Reply block
@@ -1726,7 +1500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T130000Z
 DTEND:20261106T130500Z
 SUMMARY:[Threads] Studio shot
@@ -1748,7 +1522,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T131500Z
 DTEND:20261106T133000Z
 SUMMARY:[Threads] Reply block
@@ -1769,7 +1543,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T150000Z
 DTEND:20261106T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -1795,7 +1569,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T160000Z
 DTEND:20261106T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 2"
@@ -1819,7 +1593,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T170000Z
 DTEND:20261106T174000Z
 SUMMARY:[Facebook] Talking to camera: "Example painting 5"
@@ -1843,7 +1617,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T173000Z
 DTEND:20261106T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -1866,7 +1640,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T220000Z
 DTEND:20261106T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 6"
@@ -1894,7 +1668,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261106T230000Z
 DTEND:20261106T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -1919,7 +1693,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T010000Z
 DTEND:20261107T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 4"
@@ -1943,7 +1717,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T011500Z
 DTEND:20261107T013000Z
 SUMMARY:[Threads] Reply block
@@ -1964,7 +1738,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T130000Z
 DTEND:20261107T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -1987,7 +1761,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T131500Z
 DTEND:20261107T133000Z
 SUMMARY:[Threads] Reply block
@@ -2008,7 +1782,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T150000Z
 DTEND:20261107T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -2030,7 +1804,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T150000Z
 DTEND:20261107T154500Z
 SUMMARY:[Substack] Newsletter
@@ -2052,7 +1826,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T170000Z
 DTEND:20261107T171000Z
 SUMMARY:[Facebook] Work in progress: "Example painting 6"
@@ -2078,7 +1852,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T173000Z
 DTEND:20261107T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -2101,7 +1875,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T180000Z
 DTEND:20261107T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -2126,7 +1900,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261107T190000Z
 DTEND:20261107T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 6"
@@ -2148,7 +1922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T010000Z
 DTEND:20261108T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 4"
@@ -2170,7 +1944,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T011500Z
 DTEND:20261108T013000Z
 SUMMARY:[Threads] Reply block
@@ -2191,7 +1965,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T130000Z
 DTEND:20261108T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -2218,7 +1992,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T131500Z
 DTEND:20261108T133000Z
 SUMMARY:[Threads] Reply block
@@ -2239,7 +2013,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T150000Z
 DTEND:20261108T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -2261,7 +2035,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T173000Z
 DTEND:20261108T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 5"
@@ -2285,7 +2059,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T220000Z
 DTEND:20261108T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -2305,7 +2079,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261108T223000Z
 DTEND:20261108T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -2323,7 +2097,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T010000Z
 DTEND:20261109T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 1"
@@ -2346,7 +2120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T011500Z
 DTEND:20261109T013000Z
 SUMMARY:[Threads] Reply block
@@ -2367,7 +2141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T130000Z
 DTEND:20261109T130500Z
 SUMMARY:[Threads] Slice of life
@@ -2388,7 +2162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T131500Z
 DTEND:20261109T133000Z
 SUMMARY:[Threads] Reply block
@@ -2409,7 +2183,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T150000Z
 DTEND:20261109T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -2431,7 +2205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T160000Z
 DTEND:20261109T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 3"
@@ -2454,7 +2228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T170000Z
 DTEND:20261109T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 2"
@@ -2478,7 +2252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T173000Z
 DTEND:20261109T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -2505,7 +2279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261109T230000Z
 DTEND:20261109T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 5"
@@ -2530,7 +2304,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T010000Z
 DTEND:20261110T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 4"
@@ -2554,7 +2328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T011500Z
 DTEND:20261110T013000Z
 SUMMARY:[Threads] Reply block
@@ -2575,7 +2349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T130000Z
 DTEND:20261110T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -2602,7 +2376,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T131500Z
 DTEND:20261110T133000Z
 SUMMARY:[Threads] Reply block
@@ -2623,7 +2397,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T150000Z
 DTEND:20261110T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -2643,7 +2417,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T160000Z
 DTEND:20261110T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 2"
@@ -2667,7 +2441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T173000Z
 DTEND:20261110T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -2690,7 +2464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T220000Z
 DTEND:20261110T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -2715,7 +2489,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261110T230000Z
 DTEND:20261110T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 3"
@@ -2739,7 +2513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T010000Z
 DTEND:20261111T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 4"
@@ -2761,7 +2535,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T011500Z
 DTEND:20261111T013000Z
 SUMMARY:[Threads] Reply block
@@ -2782,7 +2556,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T130000Z
 DTEND:20261111T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -2808,7 +2582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T131500Z
 DTEND:20261111T133000Z
 SUMMARY:[Threads] Reply block
@@ -2829,7 +2603,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T150000Z
 DTEND:20261111T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -2855,7 +2629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T160000Z
 DTEND:20261111T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 4"
@@ -2879,7 +2653,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T170000Z
 DTEND:20261111T171000Z
 SUMMARY:[Facebook] Sold / collector: "Example painting 1"
@@ -2902,7 +2676,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T173000Z
 DTEND:20261111T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 2"
@@ -2925,7 +2699,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261111T230000Z
 DTEND:20261111T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 5"
@@ -2950,7 +2724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T010000Z
 DTEND:20261112T010500Z
 SUMMARY:[Threads] Studio shot
@@ -2972,7 +2746,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T011500Z
 DTEND:20261112T013000Z
 SUMMARY:[Threads] Reply block
@@ -2993,7 +2767,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T130000Z
 DTEND:20261112T130500Z
 SUMMARY:[Threads] Studio shot
@@ -3015,7 +2789,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T131500Z
 DTEND:20261112T133000Z
 SUMMARY:[Threads] Reply block
@@ -3036,7 +2810,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T150000Z
 DTEND:20261112T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -3062,7 +2836,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T160000Z
 DTEND:20261112T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 5"
@@ -3087,7 +2861,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T173000Z
 DTEND:20261112T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -3110,7 +2884,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T190000Z
 DTEND:20261112T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 4"
@@ -3131,7 +2905,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T194500Z
 DTEND:20261112T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 4"
@@ -3151,7 +2925,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261112T220000Z
 DTEND:20261112T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 2"
@@ -3177,7 +2951,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T010000Z
 DTEND:20261113T011000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -3204,7 +2978,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T011500Z
 DTEND:20261113T013000Z
 SUMMARY:[Threads] Reply block
@@ -3225,7 +2999,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T130000Z
 DTEND:20261113T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 4"
@@ -3249,7 +3023,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T131500Z
 DTEND:20261113T133000Z
 SUMMARY:[Threads] Reply block
@@ -3270,7 +3044,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T150000Z
 DTEND:20261113T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -3290,7 +3064,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T160000Z
 DTEND:20261113T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 3"
@@ -3313,7 +3087,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T170000Z
 DTEND:20261113T171500Z
 SUMMARY:[Facebook] Prints announcement: "Example painting 1"
@@ -3336,7 +3110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T173000Z
 DTEND:20261113T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 2"
@@ -3360,7 +3134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T220000Z
 DTEND:20261113T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -3385,7 +3159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261113T230000Z
 DTEND:20261113T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -3410,7 +3184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T010000Z
 DTEND:20261114T011000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -3437,7 +3211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T011500Z
 DTEND:20261114T013000Z
 SUMMARY:[Threads] Reply block
@@ -3458,7 +3232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T130000Z
 DTEND:20261114T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -3485,7 +3259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T131500Z
 DTEND:20261114T133000Z
 SUMMARY:[Threads] Reply block
@@ -3506,7 +3280,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T150000Z
 DTEND:20261114T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -3528,7 +3302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T150000Z
 DTEND:20261114T154500Z
 SUMMARY:[Substack] Newsletter
@@ -3550,7 +3324,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T170000Z
 DTEND:20261114T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 3"
@@ -3573,7 +3347,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T173000Z
 DTEND:20261114T174500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -3596,7 +3370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T180000Z
 DTEND:20261114T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -3621,7 +3395,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261114T190000Z
 DTEND:20261114T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 4"
@@ -3641,7 +3415,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T010000Z
 DTEND:20261115T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -3664,7 +3438,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T011500Z
 DTEND:20261115T013000Z
 SUMMARY:[Threads] Reply block
@@ -3685,7 +3459,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T130000Z
 DTEND:20261115T130500Z
 SUMMARY:[Threads] Slice of life
@@ -3706,7 +3480,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T131500Z
 DTEND:20261115T133000Z
 SUMMARY:[Threads] Reply block
@@ -3727,7 +3501,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T150000Z
 DTEND:20261115T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -3749,7 +3523,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T173000Z
 DTEND:20261115T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -3776,7 +3550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T220000Z
 DTEND:20261115T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -3796,7 +3570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261115T223000Z
 DTEND:20261115T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -3814,7 +3588,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T010000Z
 DTEND:20261116T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 5"
@@ -3837,7 +3611,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T011500Z
 DTEND:20261116T013000Z
 SUMMARY:[Threads] Reply block
@@ -3858,7 +3632,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T130000Z
 DTEND:20261116T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -3885,7 +3659,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T131500Z
 DTEND:20261116T133000Z
 SUMMARY:[Threads] Reply block
@@ -3906,7 +3680,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T150000Z
 DTEND:20261116T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -3926,7 +3700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T160000Z
 DTEND:20261116T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 4"
@@ -3950,7 +3724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T170000Z
 DTEND:20261116T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 3"
@@ -3973,7 +3747,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T173000Z
 DTEND:20261116T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 1"
@@ -3996,7 +3770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261116T230000Z
 DTEND:20261116T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 2"
@@ -4021,7 +3795,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T010000Z
 DTEND:20261117T010500Z
 SUMMARY:[Threads] Studio shot
@@ -4043,7 +3817,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T011500Z
 DTEND:20261117T013000Z
 SUMMARY:[Threads] Reply block
@@ -4064,7 +3838,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T130000Z
 DTEND:20261117T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -4090,7 +3864,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T131500Z
 DTEND:20261117T133000Z
 SUMMARY:[Threads] Reply block
@@ -4111,7 +3885,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T150000Z
 DTEND:20261117T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -4137,7 +3911,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T160000Z
 DTEND:20261117T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 4"
@@ -4162,7 +3936,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T173000Z
 DTEND:20261117T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -4185,7 +3959,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T220000Z
 DTEND:20261117T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -4210,7 +3984,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261117T230000Z
 DTEND:20261117T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -4235,7 +4009,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T010000Z
 DTEND:20261118T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -4258,7 +4032,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T011500Z
 DTEND:20261118T013000Z
 SUMMARY:[Threads] Reply block
@@ -4279,7 +4053,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T130000Z
 DTEND:20261118T130500Z
 SUMMARY:[Threads] Studio shot
@@ -4301,7 +4075,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T131500Z
 DTEND:20261118T133000Z
 SUMMARY:[Threads] Reply block
@@ -4322,7 +4096,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T150000Z
 DTEND:20261118T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -4348,7 +4122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T160000Z
 DTEND:20261118T161500Z
 SUMMARY:[Instagram (Feed)] The story behind it: "Example painting 5"
@@ -4371,7 +4145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T170000Z
 DTEND:20261118T171000Z
 SUMMARY:[Facebook] Sold / collector: "Example painting 1"
@@ -4394,7 +4168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T173000Z
 DTEND:20261118T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -4417,7 +4191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261118T230000Z
 DTEND:20261118T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 2"
@@ -4442,7 +4216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T010000Z
 DTEND:20261119T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 4"
@@ -4464,7 +4238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T011500Z
 DTEND:20261119T013000Z
 SUMMARY:[Threads] Reply block
@@ -4485,7 +4259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T130000Z
 DTEND:20261119T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 5"
@@ -4508,7 +4282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T131500Z
 DTEND:20261119T133000Z
 SUMMARY:[Threads] Reply block
@@ -4529,7 +4303,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T150000Z
 DTEND:20261119T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -4551,7 +4325,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T160000Z
 DTEND:20261119T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 2"
@@ -4576,7 +4350,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T173000Z
 DTEND:20261119T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -4603,7 +4377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T190000Z
 DTEND:20261119T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 4"
@@ -4624,7 +4398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T194500Z
 DTEND:20261119T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 5"
@@ -4644,7 +4418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261119T220000Z
 DTEND:20261119T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 1"
@@ -4670,7 +4444,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T010000Z
 DTEND:20261120T010500Z
 SUMMARY:[Threads] Slice of life
@@ -4691,7 +4465,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T011500Z
 DTEND:20261120T013000Z
 SUMMARY:[Threads] Reply block
@@ -4712,7 +4486,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T130000Z
 DTEND:20261120T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -4739,7 +4513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T131500Z
 DTEND:20261120T133000Z
 SUMMARY:[Threads] Reply block
@@ -4760,7 +4534,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T150000Z
 DTEND:20261120T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -4782,7 +4556,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T160000Z
 DTEND:20261120T161500Z
 SUMMARY:[Instagram (Feed)] Prints announcement: "Example painting 3"
@@ -4805,7 +4579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T170000Z
 DTEND:20261120T174000Z
 SUMMARY:[Facebook] Talking to camera: "Example painting 5"
@@ -4829,7 +4603,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T173000Z
 DTEND:20261120T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -4852,7 +4626,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T220000Z
 DTEND:20261120T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 4"
@@ -4878,7 +4652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261120T230000Z
 DTEND:20261120T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 2"
@@ -4903,7 +4677,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T010000Z
 DTEND:20261121T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 2"
@@ -4926,7 +4700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T011500Z
 DTEND:20261121T013000Z
 SUMMARY:[Threads] Reply block
@@ -4947,7 +4721,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T130000Z
 DTEND:20261121T130500Z
 SUMMARY:[Threads] Slice of life
@@ -4968,7 +4742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T131500Z
 DTEND:20261121T133000Z
 SUMMARY:[Threads] Reply block
@@ -4989,7 +4763,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T150000Z
 DTEND:20261121T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -5011,7 +4785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T150000Z
 DTEND:20261121T154500Z
 SUMMARY:[Substack] Newsletter
@@ -5033,7 +4807,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T170000Z
 DTEND:20261121T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 3"
@@ -5056,7 +4830,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T173000Z
 DTEND:20261121T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -5083,7 +4857,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T180000Z
 DTEND:20261121T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -5108,7 +4882,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261121T190000Z
 DTEND:20261121T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 4"
@@ -5128,7 +4902,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T010000Z
 DTEND:20261122T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 1"
@@ -5151,7 +4925,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T011500Z
 DTEND:20261122T013000Z
 SUMMARY:[Threads] Reply block
@@ -5172,7 +4946,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T130000Z
 DTEND:20261122T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -5199,7 +4973,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T131500Z
 DTEND:20261122T133000Z
 SUMMARY:[Threads] Reply block
@@ -5220,7 +4994,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T150000Z
 DTEND:20261122T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -5240,7 +5014,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T173000Z
 DTEND:20261122T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -5263,7 +5037,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T220000Z
 DTEND:20261122T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -5283,7 +5057,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261122T223000Z
 DTEND:20261122T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -5301,7 +5075,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T010000Z
 DTEND:20261123T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 4"
@@ -5325,7 +5099,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T011500Z
 DTEND:20261123T013000Z
 SUMMARY:[Threads] Reply block
@@ -5346,7 +5120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T130000Z
 DTEND:20261123T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -5372,7 +5146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T131500Z
 DTEND:20261123T133000Z
 SUMMARY:[Threads] Reply block
@@ -5393,7 +5167,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T150000Z
 DTEND:20261123T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -5419,7 +5193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T160000Z
 DTEND:20261123T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 3"
@@ -5442,7 +5216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T170000Z
 DTEND:20261123T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 2"
@@ -5466,7 +5240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T173000Z
 DTEND:20261123T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 4"
@@ -5491,7 +5265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261123T230000Z
 DTEND:20261123T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 3"
@@ -5516,7 +5290,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T010000Z
 DTEND:20261124T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 5"
@@ -5537,7 +5311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T011500Z
 DTEND:20261124T013000Z
 SUMMARY:[Threads] Reply block
@@ -5558,7 +5332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T130000Z
 DTEND:20261124T130500Z
 SUMMARY:[Threads] Studio shot
@@ -5580,7 +5354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T131500Z
 DTEND:20261124T133000Z
 SUMMARY:[Threads] Reply block
@@ -5601,7 +5375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T150000Z
 DTEND:20261124T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -5627,7 +5401,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T160000Z
 DTEND:20261124T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 4"
@@ -5652,7 +5426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T173000Z
 DTEND:20261124T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -5675,7 +5449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T220000Z
 DTEND:20261124T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -5700,7 +5474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261124T230000Z
 DTEND:20261124T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -5725,7 +5499,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T010000Z
 DTEND:20261125T010500Z
 SUMMARY:[Threads] Slice of life
@@ -5746,7 +5520,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T011500Z
 DTEND:20261125T013000Z
 SUMMARY:[Threads] Reply block
@@ -5767,7 +5541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T130000Z
 DTEND:20261125T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 1"
@@ -5790,7 +5564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T131500Z
 DTEND:20261125T133000Z
 SUMMARY:[Threads] Reply block
@@ -5811,7 +5585,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T150000Z
 DTEND:20261125T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -5831,7 +5605,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T160000Z
 DTEND:20261125T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 5"
@@ -5855,7 +5629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T170000Z
 DTEND:20261125T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 2"
@@ -5878,7 +5652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T173000Z
 DTEND:20261125T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -5901,7 +5675,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261125T230000Z
 DTEND:20261125T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 4"
@@ -5927,7 +5701,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T010000Z
 DTEND:20261126T011000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -5954,7 +5728,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T011500Z
 DTEND:20261126T013000Z
 SUMMARY:[Threads] Reply block
@@ -5975,7 +5749,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T130000Z
 DTEND:20261126T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -6002,7 +5776,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T131500Z
 DTEND:20261126T133000Z
 SUMMARY:[Threads] Reply block
@@ -6023,7 +5797,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T150000Z
 DTEND:20261126T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -6045,7 +5819,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T160000Z
 DTEND:20261126T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 4"
@@ -6070,7 +5844,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T173000Z
 DTEND:20261126T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 2"
@@ -6093,7 +5867,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T190000Z
 DTEND:20261126T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 5"
@@ -6113,7 +5887,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T194500Z
 DTEND:20261126T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 4"
@@ -6133,7 +5907,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261126T220000Z
 DTEND:20261126T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 3"
@@ -6159,7 +5933,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T010000Z
 DTEND:20261127T010500Z
 SUMMARY:[Threads] Slice of life
@@ -6180,7 +5954,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T011500Z
 DTEND:20261127T013000Z
 SUMMARY:[Threads] Reply block
@@ -6201,7 +5975,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T130000Z
 DTEND:20261127T130500Z
 SUMMARY:[Threads] Slice of life
@@ -6222,7 +5996,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T131500Z
 DTEND:20261127T133000Z
 SUMMARY:[Threads] Reply block
@@ -6243,7 +6017,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T150000Z
 DTEND:20261127T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -6265,7 +6039,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T160000Z
 DTEND:20261127T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 3"
@@ -6288,7 +6062,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T170000Z
 DTEND:20261127T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 4"
@@ -6312,7 +6086,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T173000Z
 DTEND:20261127T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -6339,7 +6113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T220000Z
 DTEND:20261127T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -6364,7 +6138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261127T230000Z
 DTEND:20261127T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -6389,7 +6163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T010000Z
 DTEND:20261128T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 2"
@@ -6412,7 +6186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T011500Z
 DTEND:20261128T013000Z
 SUMMARY:[Threads] Reply block
@@ -6433,7 +6207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T130000Z
 DTEND:20261128T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -6460,7 +6234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T131500Z
 DTEND:20261128T133000Z
 SUMMARY:[Threads] Reply block
@@ -6481,7 +6255,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T150000Z
 DTEND:20261128T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -6501,7 +6275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T150000Z
 DTEND:20261128T154500Z
 SUMMARY:[Substack] Newsletter
@@ -6523,7 +6297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T170000Z
 DTEND:20261128T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 3"
@@ -6546,7 +6320,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T173000Z
 DTEND:20261128T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 5"
@@ -6570,7 +6344,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -6595,7 +6369,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261128T190000Z
 DTEND:20261128T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 2"
@@ -6615,7 +6389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T010000Z
 DTEND:20261129T010500Z
 SUMMARY:[Threads] Studio shot
@@ -6637,7 +6411,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T011500Z
 DTEND:20261129T013000Z
 SUMMARY:[Threads] Reply block
@@ -6658,7 +6432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T130000Z
 DTEND:20261129T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -6684,7 +6458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T131500Z
 DTEND:20261129T133000Z
 SUMMARY:[Threads] Reply block
@@ -6705,7 +6479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T150000Z
 DTEND:20261129T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -6731,7 +6505,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T173000Z
 DTEND:20261129T174500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -6754,7 +6528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T220000Z
 DTEND:20261129T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -6774,7 +6548,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261129T223000Z
 DTEND:20261129T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -6792,7 +6566,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T010000Z
 DTEND:20261130T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 2"
@@ -6814,7 +6588,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T011500Z
 DTEND:20261130T013000Z
 SUMMARY:[Threads] Reply block
@@ -6835,7 +6609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T130000Z
 DTEND:20261130T130500Z
 SUMMARY:[Threads] Studio shot
@@ -6857,7 +6631,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T131500Z
 DTEND:20261130T133000Z
 SUMMARY:[Threads] Reply block
@@ -6878,7 +6652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T150000Z
 DTEND:20261130T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -6904,7 +6678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T160000Z
 DTEND:20261130T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 4"
@@ -6928,7 +6702,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T170000Z
 DTEND:20261130T171000Z
 SUMMARY:[Facebook] Work in progress: "Example painting 6"
@@ -6954,7 +6728,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T173000Z
 DTEND:20261130T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -6977,7 +6751,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261130T230000Z
 DTEND:20261130T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 5"
@@ -7002,7 +6776,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T010000Z
 DTEND:20261201T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -7025,7 +6799,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T011500Z
 DTEND:20261201T013000Z
 SUMMARY:[Threads] Reply block
@@ -7046,7 +6820,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T130000Z
 DTEND:20261201T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 2"
@@ -7069,7 +6843,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T131500Z
 DTEND:20261201T133000Z
 SUMMARY:[Threads] Reply block
@@ -7090,7 +6864,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T150000Z
 DTEND:20261201T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -7112,7 +6886,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T160000Z
 DTEND:20261201T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 4"
@@ -7137,7 +6911,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T173000Z
 DTEND:20261201T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 1"
@@ -7160,7 +6934,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T220000Z
 DTEND:20261201T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -7185,7 +6959,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261201T230000Z
 DTEND:20261201T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 6"
@@ -7212,7 +6986,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T010000Z
 DTEND:20261202T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -7235,7 +7009,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T011500Z
 DTEND:20261202T013000Z
 SUMMARY:[Threads] Reply block
@@ -7256,7 +7030,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T130000Z
 DTEND:20261202T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -7283,7 +7057,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T131500Z
 DTEND:20261202T133000Z
 SUMMARY:[Threads] Reply block
@@ -7304,7 +7078,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T150000Z
 DTEND:20261202T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -7326,7 +7100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T160000Z
 DTEND:20261202T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 4"
@@ -7350,7 +7124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T170000Z
 DTEND:20261202T171000Z
 SUMMARY:[Facebook] Sold / collector: "Example painting 1"
@@ -7373,7 +7147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T173000Z
 DTEND:20261202T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -7396,7 +7170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261202T230000Z
 DTEND:20261202T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 2"
@@ -7421,7 +7195,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T010000Z
 DTEND:20261203T010500Z
 SUMMARY:[Threads] Slice of life
@@ -7442,7 +7216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T011500Z
 DTEND:20261203T013000Z
 SUMMARY:[Threads] Reply block
@@ -7463,7 +7237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T130000Z
 DTEND:20261203T130500Z
 SUMMARY:[Threads] Slice of life
@@ -7484,7 +7258,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T131500Z
 DTEND:20261203T133000Z
 SUMMARY:[Threads] Reply block
@@ -7505,7 +7279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T150000Z
 DTEND:20261203T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -7527,7 +7301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T160000Z
 DTEND:20261203T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 5"
@@ -7552,7 +7326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T173000Z
 DTEND:20261203T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -7579,7 +7353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T190000Z
 DTEND:20261203T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 4"
@@ -7600,7 +7374,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T194500Z
 DTEND:20261203T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 5"
@@ -7620,7 +7394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261203T220000Z
 DTEND:20261203T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 1"
@@ -7646,7 +7420,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T010000Z
 DTEND:20261204T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -7669,7 +7443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T011500Z
 DTEND:20261204T013000Z
 SUMMARY:[Threads] Reply block
@@ -7690,7 +7464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T130000Z
 DTEND:20261204T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -7717,7 +7491,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T131500Z
 DTEND:20261204T133000Z
 SUMMARY:[Threads] Reply block
@@ -7738,7 +7512,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T150000Z
 DTEND:20261204T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -7758,7 +7532,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T160000Z
 DTEND:20261204T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 2"
@@ -7782,7 +7556,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T170000Z
 DTEND:20261204T174000Z
 SUMMARY:[Facebook] Talking to camera: "Example painting 5"
@@ -7806,7 +7580,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T173000Z
 DTEND:20261204T174500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -7829,7 +7603,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T220000Z
 DTEND:20261204T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 4"
@@ -7855,7 +7629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261204T230000Z
 DTEND:20261204T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -7880,7 +7654,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T010000Z
 DTEND:20261205T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 4"
@@ -7902,7 +7676,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T011500Z
 DTEND:20261205T013000Z
 SUMMARY:[Threads] Reply block
@@ -7923,7 +7697,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T130000Z
 DTEND:20261205T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -7949,7 +7723,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T131500Z
 DTEND:20261205T133000Z
 SUMMARY:[Threads] Reply block
@@ -7970,7 +7744,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T150000Z
 DTEND:20261205T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -7996,7 +7770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T150000Z
 DTEND:20261205T154500Z
 SUMMARY:[Substack] Newsletter
@@ -8018,7 +7792,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T170000Z
 DTEND:20261205T170500Z
 SUMMARY:[Facebook] Studio shot
@@ -8040,7 +7814,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T173000Z
 DTEND:20261205T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -8063,7 +7837,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T180000Z
 DTEND:20261205T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -8088,7 +7862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261205T190000Z
 DTEND:20261205T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 4"
@@ -8108,7 +7882,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T010000Z
 DTEND:20261206T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -8131,7 +7905,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T011500Z
 DTEND:20261206T013000Z
 SUMMARY:[Threads] Reply block
@@ -8152,7 +7926,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T130000Z
 DTEND:20261206T130500Z
 SUMMARY:[Threads] Studio shot
@@ -8174,7 +7948,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T131500Z
 DTEND:20261206T133000Z
 SUMMARY:[Threads] Reply block
@@ -8195,7 +7969,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T150000Z
 DTEND:20261206T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -8221,7 +7995,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T173000Z
 DTEND:20261206T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -8244,7 +8018,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T220000Z
 DTEND:20261206T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -8264,7 +8038,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261206T223000Z
 DTEND:20261206T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -8282,7 +8056,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T010000Z
 DTEND:20261207T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 1"
@@ -8305,7 +8079,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T011500Z
 DTEND:20261207T013000Z
 SUMMARY:[Threads] Reply block
@@ -8326,7 +8100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T130000Z
 DTEND:20261207T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -8349,7 +8123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T131500Z
 DTEND:20261207T133000Z
 SUMMARY:[Threads] Reply block
@@ -8370,7 +8144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T150000Z
 DTEND:20261207T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -8390,7 +8164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T160000Z
 DTEND:20261207T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 5"
@@ -8414,7 +8188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T170000Z
 DTEND:20261207T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 4"
@@ -8438,7 +8212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T173000Z
 DTEND:20261207T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -8461,7 +8235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261207T230000Z
 DTEND:20261207T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 2"
@@ -8486,7 +8260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T010000Z
 DTEND:20261208T011000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -8513,7 +8287,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T011500Z
 DTEND:20261208T013000Z
 SUMMARY:[Threads] Reply block
@@ -8534,7 +8308,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T130000Z
 DTEND:20261208T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -8561,7 +8335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T131500Z
 DTEND:20261208T133000Z
 SUMMARY:[Threads] Reply block
@@ -8582,7 +8356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T150000Z
 DTEND:20261208T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -8604,7 +8378,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T160000Z
 DTEND:20261208T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 1"
@@ -8628,7 +8402,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T173000Z
 DTEND:20261208T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 3"
@@ -8652,7 +8426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T220000Z
 DTEND:20261208T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -8677,7 +8451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261208T230000Z
 DTEND:20261208T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 2"
@@ -8702,7 +8476,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T010000Z
 DTEND:20261209T010500Z
 SUMMARY:[Threads] Slice of life
@@ -8723,7 +8497,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T011500Z
 DTEND:20261209T013000Z
 SUMMARY:[Threads] Reply block
@@ -8744,7 +8518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T130000Z
 DTEND:20261209T130500Z
 SUMMARY:[Threads] Slice of life
@@ -8765,7 +8539,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T131500Z
 DTEND:20261209T133000Z
 SUMMARY:[Threads] Reply block
@@ -8786,7 +8560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T150000Z
 DTEND:20261209T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -8808,7 +8582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T160000Z
 DTEND:20261209T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 5"
@@ -8832,7 +8606,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T170000Z
 DTEND:20261209T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 2"
@@ -8855,7 +8629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T173000Z
 DTEND:20261209T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -8882,7 +8656,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261209T230000Z
 DTEND:20261209T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 3"
@@ -8907,7 +8681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T010000Z
 DTEND:20261210T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 4"
@@ -8931,7 +8705,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T011500Z
 DTEND:20261210T013000Z
 SUMMARY:[Threads] Reply block
@@ -8952,7 +8726,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T130000Z
 DTEND:20261210T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -8979,7 +8753,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T131500Z
 DTEND:20261210T133000Z
 SUMMARY:[Threads] Reply block
@@ -9000,7 +8774,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T150000Z
 DTEND:20261210T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -9020,7 +8794,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T160000Z
 DTEND:20261210T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 4"
@@ -9045,7 +8819,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T173000Z
 DTEND:20261210T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -9068,7 +8842,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T190000Z
 DTEND:20261210T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 5"
@@ -9088,7 +8862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T194500Z
 DTEND:20261210T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 4"
@@ -9108,7 +8882,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261210T220000Z
 DTEND:20261210T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 3"
@@ -9134,7 +8908,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T010000Z
 DTEND:20261211T010500Z
 SUMMARY:[Threads] Studio shot
@@ -9156,7 +8930,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T011500Z
 DTEND:20261211T013000Z
 SUMMARY:[Threads] Reply block
@@ -9177,7 +8951,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T130000Z
 DTEND:20261211T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -9203,7 +8977,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T131500Z
 DTEND:20261211T133000Z
 SUMMARY:[Threads] Reply block
@@ -9224,7 +8998,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T150000Z
 DTEND:20261211T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -9250,7 +9024,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T160000Z
 DTEND:20261211T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 3"
@@ -9273,7 +9047,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T170000Z
 DTEND:20261211T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 4"
@@ -9297,7 +9071,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T173000Z
 DTEND:20261211T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 2"
@@ -9320,7 +9094,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T220000Z
 DTEND:20261211T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -9345,7 +9119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261211T230000Z
 DTEND:20261211T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 1"
@@ -9370,7 +9144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T010000Z
 DTEND:20261212T010500Z
 SUMMARY:[Threads] Studio shot
@@ -9392,7 +9166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T011500Z
 DTEND:20261212T013000Z
 SUMMARY:[Threads] Reply block
@@ -9413,7 +9187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T130000Z
 DTEND:20261212T130500Z
 SUMMARY:[Threads] Studio shot
@@ -9435,7 +9209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T131500Z
 DTEND:20261212T133000Z
 SUMMARY:[Threads] Reply block
@@ -9456,7 +9230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T150000Z
 DTEND:20261212T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -9482,7 +9256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T150000Z
 DTEND:20261212T154500Z
 SUMMARY:[Substack] Newsletter
@@ -9504,7 +9278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T170000Z
 DTEND:20261212T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 3"
@@ -9527,7 +9301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T173000Z
 DTEND:20261212T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -9550,7 +9324,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T180000Z
 DTEND:20261212T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -9575,7 +9349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261212T190000Z
 DTEND:20261212T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 4"
@@ -9595,7 +9369,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T010000Z
 DTEND:20261213T011000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -9622,7 +9396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T011500Z
 DTEND:20261213T013000Z
 SUMMARY:[Threads] Reply block
@@ -9643,7 +9417,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T130000Z
 DTEND:20261213T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 4"
@@ -9667,7 +9441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T131500Z
 DTEND:20261213T133000Z
 SUMMARY:[Threads] Reply block
@@ -9688,7 +9462,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T150000Z
 DTEND:20261213T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -9710,7 +9484,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T173000Z
 DTEND:20261213T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 2"
@@ -9734,7 +9508,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T220000Z
 DTEND:20261213T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -9754,7 +9528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261213T223000Z
 DTEND:20261213T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -9772,7 +9546,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T010000Z
 DTEND:20261214T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -9795,7 +9569,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T011500Z
 DTEND:20261214T013000Z
 SUMMARY:[Threads] Reply block
@@ -9816,7 +9590,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T130000Z
 DTEND:20261214T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -9843,7 +9617,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T131500Z
 DTEND:20261214T133000Z
 SUMMARY:[Threads] Reply block
@@ -9864,7 +9638,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T150000Z
 DTEND:20261214T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -9886,7 +9660,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T160000Z
 DTEND:20261214T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 4"
@@ -9910,7 +9684,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T170000Z
 DTEND:20261214T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 5"
@@ -9934,7 +9708,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T173000Z
 DTEND:20261214T174500Z
 SUMMARY:[Threads] The story behind it: "Example painting 3"
@@ -9957,7 +9731,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261214T230000Z
 DTEND:20261214T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 4"
@@ -9983,7 +9757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T010000Z
 DTEND:20261215T011000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -10006,7 +9780,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T011500Z
 DTEND:20261215T013000Z
 SUMMARY:[Threads] Reply block
@@ -10027,7 +9801,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T130000Z
 DTEND:20261215T130500Z
 SUMMARY:[Threads] Slice of life
@@ -10048,7 +9822,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T131500Z
 DTEND:20261215T133000Z
 SUMMARY:[Threads] Reply block
@@ -10069,7 +9843,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T150000Z
 DTEND:20261215T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -10091,7 +9865,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T160000Z
 DTEND:20261215T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 4"
@@ -10116,7 +9890,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T173000Z
 DTEND:20261215T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -10143,7 +9917,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T220000Z
 DTEND:20261215T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 2"
@@ -10168,7 +9942,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261215T230000Z
 DTEND:20261215T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 3"
@@ -10192,7 +9966,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T010000Z
 DTEND:20261216T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 5"
@@ -10215,7 +9989,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T011500Z
 DTEND:20261216T013000Z
 SUMMARY:[Threads] Reply block
@@ -10236,7 +10010,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T130000Z
 DTEND:20261216T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -10263,7 +10037,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T131500Z
 DTEND:20261216T133000Z
 SUMMARY:[Threads] Reply block
@@ -10284,7 +10058,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T150000Z
 DTEND:20261216T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -10304,7 +10078,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T160000Z
 DTEND:20261216T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 2"
@@ -10327,7 +10101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T170000Z
 DTEND:20261216T171000Z
 SUMMARY:[Facebook] Sold / collector: "Example painting 1"
@@ -10350,7 +10124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T173000Z
 DTEND:20261216T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 1"
@@ -10373,7 +10147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261216T230000Z
 DTEND:20261216T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 3"
@@ -10398,7 +10172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T010000Z
 DTEND:20261217T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 4"
@@ -10420,7 +10194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T011500Z
 DTEND:20261217T013000Z
 SUMMARY:[Threads] Reply block
@@ -10441,7 +10215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T130000Z
 DTEND:20261217T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -10467,7 +10241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T131500Z
 DTEND:20261217T133000Z
 SUMMARY:[Threads] Reply block
@@ -10488,7 +10262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T150000Z
 DTEND:20261217T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -10514,7 +10288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T160000Z
 DTEND:20261217T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 4"
@@ -10539,7 +10313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T173000Z
 DTEND:20261217T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 2"
@@ -10562,7 +10336,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T190000Z
 DTEND:20261217T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 5"
@@ -10582,7 +10356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T194500Z
 DTEND:20261217T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 5"
@@ -10602,7 +10376,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261217T220000Z
 DTEND:20261217T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 1"
@@ -10628,7 +10402,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T010000Z
 DTEND:20261218T010500Z
 SUMMARY:[Threads] Slice of life
@@ -10649,7 +10423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T011500Z
 DTEND:20261218T013000Z
 SUMMARY:[Threads] Reply block
@@ -10670,7 +10444,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T130000Z
 DTEND:20261218T130500Z
 SUMMARY:[Threads] Studio shot
@@ -10692,7 +10466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T131500Z
 DTEND:20261218T133000Z
 SUMMARY:[Threads] Reply block
@@ -10713,7 +10487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T150000Z
 DTEND:20261218T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -10739,7 +10513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T160000Z
 DTEND:20261218T162000Z
 SUMMARY:[Instagram (Feed)] Finished work: "Example painting 5"
@@ -10763,7 +10537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T170000Z
 DTEND:20261218T174000Z
 SUMMARY:[Facebook] Talking to camera: "Example painting 4"
@@ -10788,7 +10562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T173000Z
 DTEND:20261218T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -10811,7 +10585,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T220000Z
 DTEND:20261218T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 2"
@@ -10836,7 +10610,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261218T230000Z
 DTEND:20261218T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 6"
@@ -10863,7 +10637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T010000Z
 DTEND:20261219T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 1"
@@ -10884,7 +10658,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T011500Z
 DTEND:20261219T013000Z
 SUMMARY:[Threads] Reply block
@@ -10905,7 +10679,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T130000Z
 DTEND:20261219T131500Z
 SUMMARY:[Threads] The story behind it: "Example painting 5"
@@ -10928,7 +10702,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T131500Z
 DTEND:20261219T133000Z
 SUMMARY:[Threads] Reply block
@@ -10949,7 +10723,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T150000Z
 DTEND:20261219T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -10969,7 +10743,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:newsletter:substack@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T150000Z
 DTEND:20261219T154500Z
 SUMMARY:[Substack] Newsletter
@@ -10991,7 +10765,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T170000Z
 DTEND:20261219T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 2"
@@ -11014,7 +10788,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T173000Z
 DTEND:20261219T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -11041,7 +10815,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:record:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T180000Z
 DTEND:20261219T190000Z
 SUMMARY:[Studio ops (Record painting footage for next week)] Painting video
@@ -11066,7 +10840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:film:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261219T190000Z
 DTEND:20261219T200000Z
 SUMMARY:[Studio ops] Film talking videos: "Example painting 4"
@@ -11086,7 +10860,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T010000Z
 DTEND:20261220T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 2"
@@ -11108,7 +10882,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T011500Z
 DTEND:20261220T013000Z
 SUMMARY:[Threads] Reply block
@@ -11129,7 +10903,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T130000Z
 DTEND:20261220T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -11156,7 +10930,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T131500Z
 DTEND:20261220T133000Z
 SUMMARY:[Threads] Reply block
@@ -11177,7 +10951,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T150000Z
 DTEND:20261220T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -11199,7 +10973,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T173000Z
 DTEND:20261220T174000Z
 SUMMARY:[Threads] Sold / collector: "Example painting 1"
@@ -11222,7 +10996,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:plan:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T220000Z
 DTEND:20261220T223000Z
 SUMMARY:[Studio ops] Weekly review and plan
@@ -11242,7 +11016,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:captions:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261220T223000Z
 DTEND:20261220T230000Z
 SUMMARY:[Studio ops] Batch captions
@@ -11260,7 +11034,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T010000Z
 DTEND:20261221T010500Z
 SUMMARY:[Threads] Slice of life
@@ -11281,7 +11055,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T011500Z
 DTEND:20261221T013000Z
 SUMMARY:[Threads] Reply block
@@ -11302,7 +11076,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T130000Z
 DTEND:20261221T130500Z
 SUMMARY:[Threads] Slice of life
@@ -11323,7 +11097,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T131500Z
 DTEND:20261221T133000Z
 SUMMARY:[Threads] Reply block
@@ -11344,7 +11118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T150000Z
 DTEND:20261221T150500Z
 SUMMARY:[Instagram (Story)] Studio shot
@@ -11366,7 +11140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T160000Z
 DTEND:20261221T161000Z
 SUMMARY:[Instagram (Feed)] Work for sale: "Example painting 3"
@@ -11389,7 +11163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T170000Z
 DTEND:20261221T172000Z
 SUMMARY:[Facebook] Finished work: "Example painting 2"
@@ -11413,7 +11187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T173000Z
 DTEND:20261221T174000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -11440,7 +11214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261221T230000Z
 DTEND:20261221T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 5"
@@ -11465,7 +11239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T010000Z
 DTEND:20261222T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 1"
@@ -11488,7 +11262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T011500Z
 DTEND:20261222T013000Z
 SUMMARY:[Threads] Reply block
@@ -11509,7 +11283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T130000Z
 DTEND:20261222T131000Z
 SUMMARY:[Threads] Work in progress: "Example painting 6"
@@ -11536,7 +11310,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T131500Z
 DTEND:20261222T133000Z
 SUMMARY:[Threads] Reply block
@@ -11557,7 +11331,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T150000Z
 DTEND:20261222T150500Z
 SUMMARY:[Instagram (Story)] Slice of life
@@ -11577,7 +11351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T160000Z
 DTEND:20261222T164000Z
 SUMMARY:[Instagram (Reel)] Talking to camera: "Example painting 2"
@@ -11601,7 +11375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T173000Z
 DTEND:20261222T174000Z
 SUMMARY:[Threads] Work for sale: "Example painting 3"
@@ -11624,7 +11398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:yt-short:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T220000Z
 DTEND:20261222T223000Z
 SUMMARY:[YouTube (Short)] Painting video: "Example painting 5"
@@ -11649,7 +11423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:tt-talk:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261222T230000Z
 DTEND:20261222T234000Z
 SUMMARY:[TikTok] Talking to camera: "Example painting 4"
@@ -11674,7 +11448,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T010000Z
 DTEND:20261223T011500Z
 SUMMARY:[Threads] The story behind it: "Example painting 1"
@@ -11697,7 +11471,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T011500Z
 DTEND:20261223T013000Z
 SUMMARY:[Threads] Reply block
@@ -11718,7 +11492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T130000Z
 DTEND:20261223T130500Z
 SUMMARY:[Threads] Reference picture: "Example painting 6"
@@ -11744,7 +11518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T131500Z
 DTEND:20261223T133000Z
 SUMMARY:[Threads] Reply block
@@ -11765,7 +11539,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T150000Z
 DTEND:20261223T151000Z
 SUMMARY:[Instagram (Story)] Work in progress: "Example painting 6"
@@ -11791,7 +11565,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:ig-feed:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T160000Z
 DTEND:20261223T161500Z
 SUMMARY:[Instagram (Feed)] The story behind it: "Example painting 4"
@@ -11814,7 +11588,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:fb-post:facebook@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T170000Z
 DTEND:20261223T171000Z
 SUMMARY:[Facebook] Work for sale: "Example painting 2"
@@ -11837,7 +11611,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T173000Z
 DTEND:20261223T175000Z
 SUMMARY:[Threads] Finished work: "Example painting 2"
@@ -11861,7 +11635,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:tt-video:tiktok@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261223T230000Z
 DTEND:20261223T233000Z
 SUMMARY:[TikTok] Painting video: "Example painting 5"
@@ -11886,7 +11660,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T010000Z
 DTEND:20261224T010500Z
 SUMMARY:[Threads] Repost a winner: "Example painting 3"
@@ -11907,7 +11681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T011500Z
 DTEND:20261224T013000Z
 SUMMARY:[Threads] Reply block
@@ -11928,7 +11702,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:am-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T130000Z
 DTEND:20261224T130500Z
 SUMMARY:[Threads] Studio shot
@@ -11950,7 +11724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:am-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T131500Z
 DTEND:20261224T133000Z
 SUMMARY:[Threads] Reply block
@@ -11971,7 +11745,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:ig-story:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T150000Z
 DTEND:20261224T150500Z
 SUMMARY:[Instagram (Story)] Reference picture: "Example painting 6"
@@ -11997,7 +11771,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:ig-reel:instagram@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T160000Z
 DTEND:20261224T163000Z
 SUMMARY:[Instagram (Reel)] Painting video: "Example painting 5"
@@ -12022,7 +11796,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:noon-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T173000Z
 DTEND:20261224T174500Z
 SUMMARY:[Threads] Prints announcement: "Example painting 3"
@@ -12045,7 +11819,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:photos:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T190000Z
 DTEND:20261224T194500Z
 SUMMARY:[Studio ops] Photograph finished work: "Example painting 4"
@@ -12066,7 +11840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:listing:shop@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T194500Z
 DTEND:20261224T201500Z
 SUMMARY:[Studio ops] Create listing: "Example painting 4"
@@ -12086,7 +11860,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:yt-talk:youtube@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261224T220000Z
 DTEND:20261224T224000Z
 SUMMARY:[YouTube (Talking video)] Talking to camera: "Example painting 2"
@@ -12112,7 +11886,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:pm-post:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261225T010000Z
 DTEND:20261225T010500Z
 SUMMARY:[Threads] Slice of life
@@ -12133,9 +11907,241 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24:pm-engage:threads@studio-days
-DTSTAMP:20261029T000000Z
+DTSTAMP:20261030T000000Z
 DTSTART:20261225T011500Z
 DTEND:20261225T013000Z
+SUMMARY:[Threads] Reply block
+DESCRIPTION:WHY: Reach on Threads is made in the replies. 15 minutes\, twic
+ e a day\, right after your posts.\nCAPTION: Reply to every comment on toda
+ y's posts. Then leave 10 real comments on other painters' and collectors' 
+ posts. No emoji-only replies.\nFORMAT (Threads): Text up to 500 chars\, 1-
+ 10 images\, or video under 5 min. Lead with a line that stands alone. Post
+  the image\, say one true thing\, ask one question.\nTIME: about 15 min\n\
+ nOpen the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Threads,ritual
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Threads] Reply block
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:am-post:threads@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T130000Z
+DTEND:20261225T131500Z
+SUMMARY:[Threads] The story behind it: "Example painting 1"
+DESCRIPTION:WORK: Example painting 1 (stage sold\, prints)\nWHY: The why. T
+ his is the post that turns a liker into a buyer. Text does the work\, the 
+ image just needs to be there.\nSHOT: The finished piece\, or a detail of i
+ t\nCAPTION: Where the idea came from\, what happened while making it\, wha
+ t it means now. 3-6 sentences. Honest beats clever.\nASK: If this one spea
+ ks to you\, it is available. Link.\nFORMAT (Threads): Text up to 500 chars
+ \, 1-10 images\, or video under 5 min. Lead with a line that stands alone.
+  Post the image\, say one true thing\, ask one question.\nTIME: about 15 m
+ in\n\nOpen the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Threads,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Threads] The story behind it: "Example painting 1"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:am-engage:threads@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T131500Z
+DTEND:20261225T133000Z
+SUMMARY:[Threads] Reply block
+DESCRIPTION:WHY: Reach on Threads is made in the replies. 15 minutes\, twic
+ e a day\, right after your posts.\nCAPTION: Reply to every comment on toda
+ y's posts. Then leave 10 real comments on other painters' and collectors' 
+ posts. No emoji-only replies.\nFORMAT (Threads): Text up to 500 chars\, 1-
+ 10 images\, or video under 5 min. Lead with a line that stands alone. Post
+  the image\, say one true thing\, ask one question.\nTIME: about 15 min\n\
+ nOpen the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Threads,ritual
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Threads] Reply block
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:ig-story:instagram@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T150000Z
+DTEND:20261225T150500Z
+SUMMARY:[Instagram (Story)] Studio shot
+DESCRIPTION:WHY: People follow a person\, not a catalog. The studio\, the w
+ all of work\, the mess\, the mistakes.\nSHOT: Wide shot of the studio / Wo
+ rk leaning against the wall / Hands\, brushes\, palette\, the floor\nCAPTI
+ ON: Something true about being a painter today. Short.\nASK: None needed. 
+ Or a question.\nFORMAT (Instagram): Feed 4:5 (1080x1350). Reels 9:16 up to
+  90s\, hook in the first second\, captions on. Stories daily\, 15s each\, 
+ raw is fine.\nTIME: about 5 min\n\nOpen the app: https://brianolek.github.
+ io/anna-studio/
+CATEGORIES:Instagram,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Instagram (Story)] Studio shot
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:ig-feed:instagram@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T160000Z
+DTEND:20261225T161500Z
+SUMMARY:[Instagram (Feed)] Prints announcement: "Example painting 2"
+DESCRIPTION:WORK: Example painting 2 (stage listed\, prints)\nWHY: Most peo
+ ple cannot buy the original. Prints turn the audience into customers at a 
+ price that works for them. Sold originals are the best print candidates.\n
+ SHOT: The print in a frame on a real wall / Hands holding the print / Clos
+ e-up of the paper texture\nCAPTION: Prints of [title] are up. Sizes. Paper
+ . How many\, if limited.\nASK: Link to the shop.\nFORMAT (Instagram): Feed
+  4:5 (1080x1350). Reels 9:16 up to 90s\, hook in the first second\, captio
+ ns on. Stories daily\, 15s each\, raw is fine.\nTIME: about 15 min\n\nOpen
+  the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Instagram,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Instagram (Feed)] Prints announcement: "Example painting 2"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:fb-post:facebook@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T170000Z
+DTEND:20261225T172000Z
+SUMMARY:[Facebook] Finished work: "Example painting 4"
+DESCRIPTION:WORK: Example painting 4 (stage finished\, drop 2026-10-24\, pr
+ ints)\nWHY: The payoff post. Shoot it properly. This image gets reused for
+  the for-sale post\, the prints\, the newsletter\, the video.\nSHOT: Strai
+ ght on\, even daylight\, no glare\, cropped to the edges / One shot in a r
+ oom or leaning on a wall for scale / One tight detail\nCAPTION: Title\, si
+ ze\, medium. One line about what it ended up being about. Whether it is av
+ ailable.\nASK: DM to collect / link in bio / prints coming.\nFORMAT (Faceb
+ ook): Same image or video as Instagram. Longer captions are fine here\, pe
+ ople read. Always put the price and how to buy in the post.\nTIME: about 2
+ 0 min\n\nOpen the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Facebook,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Facebook] Finished work: "Example painting 4"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:noon-post:threads@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T173000Z
+DTEND:20261225T174000Z
+SUMMARY:[Threads] Sold / collector: "Example painting 1"
+DESCRIPTION:WORK: Example painting 1 (stage sold\, prints)\nWHY: Social pro
+ of. Every sale is a post. The packed box\, the piece on the collector's wa
+ ll\, the thank you.\nSHOT: The packed order with the label / Collector's p
+ hoto of it hung (ask for one) / The empty spot on the studio wall\nCAPTION
+ : This one went to [city]. Thank you. One line about what it meant.\nASK: 
+ Mention what is still available\, lightly.\nFORMAT (Threads): Text up to 5
+ 00 chars\, 1-10 images\, or video under 5 min. Lead with a line that stand
+ s alone. Post the image\, say one true thing\, ask one question.\nTIME: ab
+ out 10 min\n\nOpen the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Threads,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Threads] Sold / collector: "Example painting 1"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:yt-short:youtube@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T220000Z
+DTEND:20261225T223000Z
+SUMMARY:[YouTube (Short)] Painting video: "Example painting 6"
+DESCRIPTION:WORK: Example painting 6 (stage in-progress\, Replace these exa
+ mple rows with Anna's real works. Stages: idea\, in-progress\, finished\, 
+ listed\, sold\, archived. Dates: started\, finished\, listed\, drop\, sold
+ .)\nWHY: Reach. Video of the painting being made\, or a slow pan over the 
+ finished surface\, is how strangers find the work. Record once\, post to f
+ our platforms.\nSHOT: Phone on a tripod\, 9:16\, over the shoulder or stra
+ ight on / 10-20 min of real painting cut to the best 20-45s / Or: slow pan
+  across the finished painting\, ending on a pull-back of the whole thing\n
+ CAPTION: On-screen text or voiceover: what you were thinking during this p
+ art. Keep it human.\nASK: Follow to see it finished / link to buy.\nFORMAT
+  (YouTube): Shorts 9:16 under 60s\, same as TikTok. Talking videos 2-6 min
+ \, 16:9 or 9:16\, phone at eye level\, window light\, title says what you 
+ talk about.\nTIME: about 30 min\n\nOpen the app: https://brianolek.github.
+ io/anna-studio/
+CATEGORIES:YouTube,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[YouTube (Short)] Painting video: "Example painting 6"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:tt-talk:tiktok@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261225T230000Z
+DTEND:20261225T234000Z
+SUMMARY:[TikTok] Talking to camera: "Example painting 5"
+DESCRIPTION:WORK: Example painting 5 (stage finished)\nWHY: This is what bu
+ ilds a fan base. People buy from a person they feel they know. One idea pe
+ r video: why this painting\, what you learned\, an answer to a comment.\nS
+ HOT: Phone at eye level\, window light\, the painting behind you / 30-90s 
+ for Shorts/TikTok\, or 2-6 min for YouTube / Start mid-thought\, no intro\
+ nCAPTION: The one idea\, as the title. Example: 'Why I painted this twice'
+ .\nASK: Ask them to tell you which painting they would hang.\nFORMAT (TikT
+ ok): 9:16 vertical\, 15-60s. First frame is the most interesting moment\, 
+ not a logo. Voiceover or on-screen text with what you were thinking.\nTIME
+ : about 40 min\n\nOpen the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:TikTok,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[TikTok] Talking to camera: "Example painting 5"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:pm-post:threads@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261226T010000Z
+DTEND:20261226T011000Z
+SUMMARY:[Threads] Work for sale: "Example painting 3"
+DESCRIPTION:WORK: Example painting 3 (stage listed)\nWHY: Say it is for sal
+ e\, plainly\, with a price. Most people never buy because they were never 
+ asked. Every listed painting gets this post\, more than once.\nSHOT: The p
+ iece in a room for scale / The piece straight on\nCAPTION: Title\, size\, 
+ price\, shipping\, how to buy. One line about it. That is all.\nASK: DM me
+  / link in bio. Say which.\nFORMAT (Threads): Text up to 500 chars\, 1-10 
+ images\, or video under 5 min. Lead with a line that stands alone. Post th
+ e image\, say one true thing\, ask one question.\nTIME: about 10 min\n\nOp
+ en the app: https://brianolek.github.io/anna-studio/
+CATEGORIES:Threads,post
+URL:https://brianolek.github.io/anna-studio/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Threads] Work for sale: "Example painting 3"
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25:pm-engage:threads@studio-days
+DTSTAMP:20261030T000000Z
+DTSTART:20261226T011500Z
+DTEND:20261226T013000Z
 SUMMARY:[Threads] Reply block
 DESCRIPTION:WHY: Reach on Threads is made in the replies. 15 minutes\, twic
  e a day\, right after your posts.\nCAPTION: Reply to every comment on toda
